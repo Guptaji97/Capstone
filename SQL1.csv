@@ -1,0 +1,1754 @@
+,Sno,MovieName,Director1,Director2,Director3,Duration,Genre1,Genre2,Genre3,Ratings
+0,1,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140,Animation,Action,Adventure,9.0
+1,2,The Dark Knight,Christopher Nolan,,,152,Action,Crime,Drama,9.0
+2,3,The Lord of the Rings: The Return of the King,Peter Jackson,,,201,Action,Adventure,Drama,9.0
+3,4,Inception,Christopher Nolan,,,148,Action,Adventure,Sci-Fi,8.8
+4,5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,,,178,Action,Adventure,Drama,8.8
+5,6,The Lord of the Rings: The Two Towers,Peter Jackson,,,179,Action,Adventure,Drama,8.8
+6,7,The Matrix,Lana Wachowski,Lilly Wachowski,,136,Action,Sci-Fi,,8.7
+7,8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,,,124,Action,Adventure,Fantasy,8.7
+8,9,Soorarai Pottru,Sudha Kongara,,,153,Action,Drama,,8.7
+9,10,Star Wars: Episode IV - A New Hope,George Lucas,,,121,Action,Adventure,Fantasy,8.6
+10,11,Terminator 2: Judgment Day,James Cameron,,,137,Action,Sci-Fi,,8.6
+11,12,Seven Samurai,Akira Kurosawa,,,207,Action,Drama,,8.6
+12,13,Harakiri,Masaki Kobayashi,,,133,Action,Drama,Mystery,8.6
+13,14,Sita Ramam,Hanu Raghavapudi,,,163,Action,Drama,Mystery,8.6
+14,15,Léon: The Professional,Luc Besson,,,110,Action,Crime,Drama,8.5
+15,16,Gladiator,Ridley Scott,,,155,Action,Adventure,Drama,8.5
+16,17,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117,Animation,Action,Adventure,8.4
+17,18,Indiana Jones and the Raiders of the Lost Ark,Steven Spielberg,,,115,Action,Adventure,,8.4
+18,19,Avengers: Endgame,Anthony Russo,Joe Russo,,181,Action,Adventure,Drama,8.4
+19,20,Avengers: Infinity War,Anthony Russo,Joe Russo,,149,Action,Adventure,Sci-Fi,8.4
+20,21,Oldboy,Park Chan-wook,,,101,Action,Drama,Mystery,8.4
+21,22,The Dark Knight Rises,Christopher Nolan,,,164,Action,Drama,Thriller,8.4
+22,23,Aliens,James Cameron,,,137,Action,Adventure,Sci-Fi,8.4
+23,24,Kaithi,Lokesh Kanagaraj,,,145,Action,Adventure,Crime,8.4
+24,25,Asuran,Vetrimaaran,,,141,Action,Drama,,8.4
+25,26,Top Gun: Maverick,Joseph Kosinski,,,130,Action,Drama,,8.3
+26,27,Heat,Michael Mann,,,170,Action,Crime,Drama,8.3
+27,28,North by Northwest,Alfred Hitchcock,,,136,Action,Adventure,Mystery,8.3
+28,29,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,,,131,Action,Adventure,Fantasy,8.3
+29,30,Princess Mononoke,Hayao Miyazaki,,,134,Animation,Action,Adventure,8.3
+30,31,Kantara,Rishab Shetty,,,148,Action,Adventure,Drama,8.3
+31,32,Dangal,Nitesh Tiwari,,,161,Action,Biography,Drama,8.3
+32,33,Raatchasan,Ram Kumar,,,170,Action,Crime,Drama,8.3
+33,34,K.G.F: Chapter 2,Prashanth Neel,,,168,Action,Crime,Drama,8.3
+34,35,Vikram,Lokesh Kanagaraj,,,175,Action,Crime,Thriller,8.3
+35,36,Shershaah,Vishnuvardhan,,,135,Action,Biography,Drama,8.3
+36,37,Guardians of the Galaxy Vol. 3,James Gunn,,,150,Action,Adventure,Comedy,8.2
+37,38,Spider-Man: No Way Home,Jon Watts,,,148,Action,Adventure,Fantasy,8.2
+38,39,Jurassic Park,Steven Spielberg,,,127,Action,Adventure,Sci-Fi,8.2
+39,40,Indiana Jones and the Last Crusade,Steven Spielberg,,,127,Action,Adventure,,8.2
+40,41,1917,Sam Mendes,,,119,Action,Drama,War,8.2
+41,42,Batman Begins,Christopher Nolan,,,140,Action,Crime,Drama,8.2
+42,43,Kill Bill: Vol. 1,Quentin Tarantino,,,111,Action,Crime,Drama,8.2
+43,44,Die Hard,John McTiernan,,,132,Action,Thriller,,8.2
+44,45,V for Vendetta,James McTeigue,,,132,Action,Drama,Sci-Fi,8.2
+45,46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,,,117,Animation,Action,Adventure,8.2
+46,47,Ran,Akira Kurosawa,,,162,Action,Drama,War,8.2
+47,48,Gangs of Wasseypur,Anurag Kashyap,,,321,Action,Comedy,Crime,8.2
+48,49,Vikram Vedha,Gayatri,Pushkar,Gowtham Selvaraj,147,Action,Crime,Drama,8.2
+49,50,Yojimbo,Akira Kurosawa,,,110,Action,Drama,Thriller,8.2
+50,51,Uri: The Surgical Strike,Aditya Dhar,,,138,Action,Drama,History,8.2
+51,52,Baahubali 2: The Conclusion,S.S. Rajamouli,,,167,Action,Drama,,8.2
+52,53,K.G.F: Chapter 1,Prashanth Neel,,,156,Action,Crime,Drama,8.2
+53,54,Rangasthalam 1985,Sukumar,,,170,Action,Drama,,8.2
+54,55,Sherlock Jr.,Buster Keaton,,,45,Action,Comedy,Romance,8.2
+55,56,The Mountain II,Alper Caglar,,,135,Action,Drama,War,8.2
+56,57,Paan Singh Tomar,Tigmanshu Dhulia,,,135,Action,Biography,Crime,8.2
+57,58,Mad Max: Fury Road,George Miller,,,120,Action,Adventure,Sci-Fi,8.1
+58,59,Pirates of the Caribbean: The Curse of the Black Pearl,Gore Verbinski,,,143,Action,Adventure,Fantasy,8.1
+59,60,Blade Runner,Ridley Scott,,,117,Action,Drama,Sci-Fi,8.1
+60,61,Ford v Ferrari,James Mangold,,,152,Action,Biography,Drama,8.1
+61,62,The Terminator,James Cameron,,,107,Action,Sci-Fi,,8.1
+62,63,Logan,James Mangold,,,137,Action,Drama,Sci-Fi,8.1
+63,64,How to Train Your Dragon,Dean DeBlois,Chris Sanders,,98,Animation,Action,Adventure,8.1
+64,65,Rush,Ron Howard,,,123,Action,Biography,Drama,8.1
+65,66,"Lock, Stock and Two Smoking Barrels",Guy Ritchie,,,107,Action,Comedy,Crime,8.1
+66,67,Warrior,Gavin O'Connor,,,140,Action,Drama,Sport,8.1
+67,68,The Iron Giant,Brad Bird,,,86,Animation,Action,Adventure,8.1
+68,69,Neon Genesis Evangelion: The End of Evangelion,Hideaki Anno,Kazuya Tsurumaki,,87,Animation,Action,Drama,8.1
+69,70,The General,Clyde Bruckman,Buster Keaton,,67,Action,Adventure,Comedy,8.1
+70,71,Bajrangi Bhaijaan,Kabir Khan,Mehmet Tutkun,,163,Action,Adventure,Comedy,8.1
+71,72,Sholay,Ramesh Sippy,,,162,Action,Adventure,Comedy,8.1
+72,73,The Hidden Fortress,Akira Kurosawa,,,126,Action,Adventure,Drama,8.1
+73,74,White Heat,Raoul Walsh,,,114,Action,Crime,Drama,8.1
+74,75,A Wednesday,Neeraj Pandey,,,104,Action,Crime,Drama,8.1
+75,76,Sarfarosh,John Mathew Matthan,,,174,Action,Drama,Thriller,8.1
+76,77,Major,Sashi Kiran Tikka,,,150,Action,Biography,Drama,8.1
+77,78,Hera Pheri,Priyadarshan,,,156,Action,Comedy,Crime,8.1
+78,79,Thuppakki,A.R. Murugadoss,,,165,Action,Thriller,,8.1
+79,80,Kaththi,A.R. Murugadoss,,,166,Action,Drama,,8.1
+80,81,John Wick: Chapter 4,Chad Stahelski,,,169,Action,Crime,Thriller,8.0
+81,82,Guardians of the Galaxy,James Gunn,,,121,Action,Adventure,Comedy,8.0
+82,83,Dune,Denis Villeneuve,,,155,Action,Adventure,Drama,8.0
+83,84,Blade Runner 2049,Denis Villeneuve,,,164,Action,Drama,Mystery,8.0
+84,85,Deadpool,Tim Miller,,,108,Action,Comedy,,8.0
+85,86,The Avengers,Joss Whedon,,,143,Action,Sci-Fi,,8.0
+86,87,Zack Snyder's Justice League,Zack Snyder,,,242,Action,Adventure,Fantasy,8.0
+87,88,The Incredibles,Brad Bird,,,115,Animation,Action,Adventure,8.0
+88,89,Casino Royale,Martin Campbell,,,144,Action,Adventure,Thriller,8.0
+89,90,The Revenant,Alejandro G. Iñárritu,,,156,Action,Adventure,Drama,8.0
+90,91,Akira,Katsuhiro Ôtomo,,,124,Animation,Action,Drama,8.0
+91,92,Kill Bill: Vol. 2,Quentin Tarantino,,,137,Action,Crime,Thriller,8.0
+92,93,The Bourne Ultimatum,Paul Greengrass,,,115,Action,Mystery,Thriller,8.0
+93,94,Ip Man,Wilson Yip,,,106,Action,Biography,Drama,8.0
+94,95,Infernal Affairs,Andrew Lau,Alan Mak,,101,Action,Crime,Drama,8.0
+95,96,Wolfwalkers,Tomm Moore,Ross Stewart,,103,Animation,Action,Adventure,8.0
+96,97,Baahubali: The Beginning,S.S. Rajamouli,,,159,Action,Drama,,8.0
+97,98,Elite Squad,José Padilha,,,115,Action,Crime,Drama,8.0
+98,99,Sanjuro,Akira Kurosawa,,,96,Action,Drama,Thriller,8.0
+99,100,Haider,Vishal Bhardwaj,,,160,Action,Crime,Drama,8.0
+100,101,Elite Squad 2: The Enemy Within,José Padilha,,,115,Action,Crime,Drama,8.0
+101,102,Tae Guk Gi: The Brotherhood of War,Je-kyu Kang,,,140,Action,Drama,War,8.0
+102,103,Karthikeya 2,Chandoo Mondeti,,,150,Action,Adventure,Fantasy,8.0
+103,104,Andaz Apna Apna,Rajkumar Santoshi,,,160,Action,Comedy,Romance,8.0
+104,105,Arjun Reddy,Sandeep Reddy Vanga,,,182,Action,Drama,Romance,8.0
+105,106,Nefes: Vatan Sagolsun,Levent Semerci,,,128,Action,Drama,Thriller,8.0
+106,107,1: Nenokkadine,Sukumar,,,170,Action,Thriller,,8.0
+107,108,Avatar,James Cameron,,,162,Action,Adventure,Fantasy,7.9
+108,109,Iron Man,Jon Favreau,,,126,Action,Adventure,Sci-Fi,7.9
+109,110,Thor: Ragnarok,Taika Waititi,,,130,Action,Adventure,Comedy,7.9
+110,111,Star Trek,J.J. Abrams,,,127,Action,Adventure,Sci-Fi,7.9
+111,112,Edge of Tomorrow,Doug Liman,,,113,Action,Adventure,Sci-Fi,7.9
+112,113,The Bourne Identity,Doug Liman,,,119,Action,Mystery,Thriller,7.9
+113,114,X-Men: Days of Future Past,Bryan Singer,,,132,Action,Adventure,Sci-Fi,7.9
+114,115,Children of Men,Alfonso Cuarón,,,109,Action,Drama,Sci-Fi,7.9
+115,116,The Blues Brothers,John Landis,,,133,Action,Adventure,Comedy,7.9
+116,117,District 9,Neill Blomkamp,,,112,Action,Sci-Fi,Thriller,7.9
+117,118,"Crouching Tiger, Hidden Dragon",Ang Lee,,,120,Action,Adventure,Drama,7.9
+118,119,A Fistful of Dollars,Sergio Leone,,,99,Action,Drama,Western,7.9
+119,120,Ghost in the Shell,Mamoru Oshii,,,83,Animation,Action,Crime,7.9
+120,121,The Raid 2,Gareth Evans,,,150,Action,Crime,Thriller,7.9
+121,122,Hero,Yimou Zhang,,,120,Action,Adventure,Drama,7.9
+122,123,The Wild Bunch,Sam Peckinpah,,,135,Action,Adventure,Drama,7.9
+123,124,Letters from Iwo Jima,Clint Eastwood,,,141,Action,Adventure,Drama,7.9
+124,125,A Taxi Driver,Hun Jang,,,137,Action,Drama,History,7.9
+125,126,The Adventures of Robin Hood,Michael Curtiz,William Keighley,,102,Action,Adventure,Romance,7.9
+126,127,Baby,Neeraj Pandey,,,159,Action,Crime,Thriller,7.9
+127,128,Airlift,Raja Menon,,,130,Action,Drama,History,7.9
+128,129,Vishwaroopam,Kamal Haasan,,,148,Action,Thriller,,7.9
+129,130,Everything Everywhere All at Once,Daniel Kwan,Daniel Scheinert,,139,Action,Adventure,Comedy,7.8
+130,131,The Batman,Matt Reeves,,,176,Action,Crime,Drama,7.8
+131,132,The Gentlemen,Guy Ritchie,,,113,Action,Comedy,Crime,7.8
+132,133,All Quiet on the Western Front,Edward Berger,,,148,Action,Drama,War,7.8
+133,134,RRR,S.S. Rajamouli,,,187,Action,Drama,,7.8
+134,135,Rogue One: A Star Wars Story,Gareth Edwards,,,133,Action,Adventure,Sci-Fi,7.8
+135,136,Drive,Nicolas Winding Refn,,,100,Action,Drama,,7.8
+136,137,Dunkirk,Christopher Nolan,,,106,Action,Drama,History,7.8
+137,138,Apocalypto,Mel Gibson,,,139,Action,Adventure,Drama,7.8
+138,139,Star Wars: Episode VII - The Force Awakens,J.J. Abrams,,,138,Action,Adventure,Sci-Fi,7.8
+139,140,Ghostbusters,Ivan Reitman,,,105,Action,Comedy,Fantasy,7.8
+140,141,Captain America: Civil War,Anthony Russo,Joe Russo,,147,Action,Sci-Fi,,7.8
+141,142,Predator,John McTiernan,,,107,Action,Adventure,Horror,7.8
+142,143,Skyfall,Sam Mendes,,,143,Action,Adventure,Thriller,7.8
+143,144,Hot Fuzz,Edgar Wright,,,121,Action,Comedy,Mystery,7.8
+144,145,Taken,Pierre Morel,,,90,Action,Crime,Thriller,7.8
+145,146,Captain America: The Winter Soldier,Anthony Russo,Joe Russo,,136,Action,Adventure,Sci-Fi,7.8
+146,147,The Fugitive,Andrew Davis,,,130,Action,Crime,Drama,7.8
+147,148,Captain Phillips,Paul Greengrass,,,134,Action,Biography,Crime,7.8
+148,149,The Last Samurai,Edward Zwick,,,154,Action,Drama,,7.8
+149,150,Big Hero 6,Don Hall,Chris Williams,,102,Animation,Action,Adventure,7.8
+150,151,I Saw the Devil,Jee-woon Kim,,,144,Action,Crime,Horror,7.8
+151,152,Serenity,Joss Whedon,,,119,Action,Adventure,Sci-Fi,7.8
+152,153,The Fighter,David O. Russell,,,116,Action,Biography,Drama,7.8
+153,154,Thirteen Lives,Ron Howard,,,147,Action,Adventure,Biography,7.8
+154,155,How to Train Your Dragon 2,Dean DeBlois,,,102,Animation,Action,Adventure,7.8
+155,156,The Chaser,Na Hong-jin,,,125,Action,Crime,Drama,7.8
+156,157,Ninja Scroll,Yoshiaki Kawajiri,,,94,Animation,Action,Adventure,7.8
+157,158,Batman: Mask of the Phantasm,Eric Radomski,Kevin Altieri,Boyd Kirkland,76,Animation,Action,Adventure,7.8
+158,159,"Aguirre, the Wrath of God",Werner Herzog,,,95,Action,Adventure,Biography,7.8
+159,160,Cowboy Bebop: The Movie,Shin'ichirô Watanabe,Tensai Okamura,Hiroyuki Okiura,115,Animation,Action,Crime,7.8
+160,161,The Killer,John Woo,,,111,Action,Crime,Drama,7.8
+161,162,Knockin' on Heaven's Door,Thomas Jahn,,,87,Action,Crime,Comedy,7.8
+162,163,Minnal Murali,Basil Joseph,,,158,Action,Comedy,Drama,7.8
+163,164,Avatar: The Way of Water,James Cameron,,,192,Action,Adventure,Fantasy,7.7
+164,165,Kingsman: The Secret Service,Matthew Vaughn,,,129,Action,Adventure,Comedy,7.7
+165,166,Black Hawk Down,Ridley Scott,,,144,Action,Drama,History,7.7
+166,167,Mission: Impossible - Fallout,Christopher McQuarrie,,,147,Action,Adventure,Thriller,7.7
+167,168,The Dirty Dozen,Robert Aldrich,,,150,Action,Adventure,War,7.7
+168,169,The Count of Monte Cristo,Kevin Reynolds,,,131,Action,Adventure,Drama,7.7
+169,170,3:10 to Yuma,James Mangold,,,122,Action,Crime,Drama,7.7
+170,171,The Lego Movie,Phil Lord,Christopher Miller,,100,Animation,Action,Adventure,7.7
+171,172,Star Trek Into Darkness,J.J. Abrams,,,132,Action,Adventure,Sci-Fi,7.7
+172,173,The Last of the Mohicans,Michael Mann,,,112,Action,Adventure,Drama,7.7
+173,174,Training Day,Antoine Fuqua,,,122,Action,Crime,Drama,7.7
+174,175,Man on Fire,Tony Scott,,,146,Action,Crime,Drama,7.7
+175,176,X-Men: First Class,Matthew Vaughn,,,131,Action,Sci-Fi,,7.7
+176,177,The Longest Day,Ken Annakin,Andrew Marton,Gerd Oswald,178,Action,Drama,History,7.7
+177,178,The Bourne Supremacy,Paul Greengrass,,,108,Action,Mystery,Thriller,7.7
+178,179,The Magnificent Seven,John Sturges,,,128,Action,Adventure,Drama,7.7
+179,180,First Blood,Ted Kotcheff,,,93,Action,Adventure,Thriller,7.7
+180,181,Kung Fu Hustle,Stephen Chow,,,99,Action,Comedy,Fantasy,7.7
+181,182,The Boondock Saints,Troy Duffy,,,108,Action,Thriller,,7.7
+182,183,Dirty Harry,Don Siegel,Clint Eastwood,,102,Action,Crime,Thriller,7.7
+183,184,Goldfinger,Guy Hamilton,,,110,Action,Adventure,Thriller,7.7
+184,185,Star Trek II: The Wrath of Khan,Nicholas Meyer,,,113,Action,Adventure,Sci-Fi,7.7
+185,186,Bonnie and Clyde,Arthur Penn,,,111,Action,Biography,Crime,7.7
+186,187,The French Connection,William Friedkin,,,104,Action,Crime,Drama,7.7
+187,188,Run Lola Run,Tom Tykwer,,,80,Action,Crime,Thriller,7.7
+188,189,The Man from Nowhere,Jeong-beom Lee,,,119,Action,Crime,Drama,7.7
+189,190,Kubo and the Two Strings,Travis Knight,,,101,Animation,Action,Adventure,7.7
+190,191,Badlands,Terrence Malick,,,94,Action,Crime,Drama,7.7
+191,192,Ponniyin Selvan: Part I,Mani Ratnam,,,167,Action,Adventure,Drama,7.7
+192,193,Key Largo,John Huston,,,100,Action,Crime,Drama,7.7
+193,194,Scarface,Howard Hawks,Richard Rosson,,93,Action,Crime,Drama,7.7
+194,195,Hard Boiled,John Woo,,,128,Action,Crime,Thriller,7.7
+195,196,Joint Security Area,Park Chan-wook,,,110,Action,Drama,Thriller,7.7
+196,197,Dragon Ball Super: Broly,Tatsuya Nagamine,,,100,Animation,Action,Adventure,7.7
+197,198,Eega,S.S. Rajamouli,,,145,Action,Comedy,Drama,7.7
+198,199,Udta Punjab,Abhishek Chaubey,,,148,Action,Crime,Drama,7.7
+199,200,Raazi,Meghna Gulzar,,,138,Action,Drama,Thriller,7.7
+200,201,Guardians of the Galaxy Vol. 2,James Gunn,,,136,Action,Adventure,Comedy,7.6
+201,202,Deadpool 2,David Leitch,,,119,Action,Adventure,Comedy,7.6
+202,203,The Fifth Element,Luc Besson,,,126,Action,Adventure,Sci-Fi,7.6
+203,204,Sicario,Denis Villeneuve,,,121,Action,Crime,Drama,7.6
+204,205,300,Zack Snyder,,,117,Action,Drama,,7.6
+205,206,Harry Potter and the Half-Blood Prince,David Yates,,,153,Action,Adventure,Family,7.6
+206,207,Star Wars: Episode III - Revenge of the Sith,George Lucas,,,140,Action,Adventure,Fantasy,7.6
+207,208,Baby Driver,Edgar Wright,,,113,Action,Crime,Drama,7.6
+208,209,Watchmen,Zack Snyder,,,162,Action,Drama,Mystery,7.6
+209,210,Incredibles 2,Brad Bird,,,118,Animation,Action,Adventure,7.6
+210,211,Where Eagles Dare,Brian G. Hutton,,,158,Action,Adventure,War,7.6
+211,212,RoboCop,Paul Verhoeven,,,102,Action,Crime,Sci-Fi,7.6
+212,213,Train to Busan,Sang-ho Yeon,,,118,Action,Horror,Thriller,7.6
+213,214,Zombieland,Ruben Fleischer,,,88,Action,Comedy,Horror,7.6
+214,215,Kung Fu Panda,Mark Osborne,John Stevenson,,92,Animation,Action,Adventure,7.6
+215,216,Creed,Ryan Coogler,,,133,Action,Drama,Sport,7.6
+216,217,The Road Warrior,George Miller,,,96,Action,Adventure,Sci-Fi,7.6
+217,218,Kick-Ass,Matthew Vaughn,,,117,Action,Comedy,Crime,7.6
+218,219,Falling Down,Joel Schumacher,,,113,Action,Crime,Drama,7.6
+219,220,Minority Report,Steven Spielberg,,,145,Action,Crime,Mystery,7.6
+220,221,Sherlock Holmes,Guy Ritchie,,,128,Action,Adventure,Mystery,7.6
+221,222,Lethal Weapon,Richard Donner,,,109,Action,Crime,Thriller,7.6
+222,223,Rise of the Planet of the Apes,Rupert Wyatt,,,105,Action,Drama,Sci-Fi,7.6
+223,224,Battle Royale,Kinji Fukasaku,,,114,Action,Adventure,Drama,7.6
+224,225,Dawn of the Planet of the Apes,Matt Reeves,,,130,Action,Adventure,Drama,7.6
+225,226,The Raid: Redemption,Gareth Evans,,,101,Action,Crime,Thriller,7.6
+226,227,End of Watch,David Ayer,,,109,Action,Adventure,Crime,7.6
+227,228,Enter the Dragon,Robert Clouse,,,102,Action,Crime,Drama,7.6
+228,229,Die Hard with a Vengeance,John McTiernan,,,128,Action,Adventure,Thriller,7.6
+229,230,Hotel Mumbai,Anthony Maras,,,123,Action,Drama,History,7.6
+230,231,Only the Brave,Joseph Kosinski,,,134,Action,Biography,Drama,7.6
+231,232,Escape from Alcatraz,Don Siegel,,,112,Action,Biography,Crime,7.6
+232,233,Star Trek: First Contact,Jonathan Frakes,,,111,Action,Adventure,Drama,7.6
+233,234,United 93,Paul Greengrass,,,111,Action,Drama,History,7.6
+234,235,The Taking of Pelham One Two Three,Joseph Sargent,,,104,Action,Crime,Thriller,7.6
+235,236,Vampire Hunter D: Bloodlust,Jack Fletcher,Yoshiaki Kawajiri,,103,Animation,Action,Drama,7.6
+236,237,Fearless,Ronny Yu,,,104,Action,Biography,Drama,7.6
+237,238,Pushpa: The Rise - Part 1,Sukumar,,,179,Action,Crime,Drama,7.6
+238,239,Ludo,Anurag Basu,,,149,Action,Comedy,Crime,7.6
+239,240,Cell 211,Daniel Monzón,,,113,Action,Adventure,Crime,7.6
+240,241,Evangelion: 1.0 You Are (Not) Alone,Masayuki,Kazuya Tsurumaki,Hideaki Anno,98,Animation,Action,Drama,7.6
+241,242,Lupin III: The Castle of Cagliostro,Hayao Miyazaki,,,102,Animation,Action,Adventure,7.6
+242,243,The Boy and the Beast,Mamoru Hosoda,,,119,Animation,Action,Adventure,7.6
+243,244,Mortal World,Ali Atay,,,107,Action,Comedy,Crime,7.6
+244,245,The Covenant,Guy Ritchie,,,123,Action,Thriller,War,7.5
+245,246,Indiana Jones and the Temple of Doom,Steven Spielberg,,,118,Action,Adventure,,7.5
+246,247,Batman,Tim Burton,,,126,Action,Adventure,,7.5
+247,248,Harry Potter and the Order of the Phoenix,David Yates,,,138,Action,Adventure,Family,7.5
+248,249,Scott Pilgrim vs. the World,Edgar Wright,,,112,Action,Comedy,Fantasy,7.5
+249,250,Fury,David Ayer,,,134,Action,Drama,War,7.5
+250,251,Lone Survivor,Peter Berg,,,121,Action,Biography,Drama,7.5
+251,252,The Hunger Games: Catching Fire,Francis Lawrence,,,146,Action,Adventure,Sci-Fi,7.5
+252,253,Total Recall,Paul Verhoeven,,,113,Action,Adventure,Sci-Fi,7.5
+253,254,The Warriors,Walter Hill,,,93,Action,Crime,Thriller,7.5
+254,255,Master and Commander: The Far Side of the World,Peter Weir,,,138,Action,Adventure,Drama,7.5
+255,256,Doctor Strange,Scott Derrickson,,,115,Action,Adventure,Fantasy,7.5
+256,257,The Crow,Alex Proyas,,,102,Action,Crime,Drama,7.5
+257,258,Upgrade,Leigh Whannell,,,100,Action,Sci-Fi,Thriller,7.5
+258,259,It's a Mad Mad Mad Mad World,Stanley Kramer,,,210,Action,Adventure,Comedy,7.5
+259,260,Collateral,Michael Mann,,,120,Action,Crime,Drama,7.5
+260,261,The Hunt for Red October,John McTiernan,,,135,Action,Adventure,Thriller,7.5
+261,262,Source Code,Duncan Jones,,,93,Action,Drama,Mystery,7.5
+262,263,Munich,Steven Spielberg,,,164,Action,Drama,History,7.5
+263,264,Enemy at the Gates,Jean-Jacques Annaud,,,131,Action,Drama,War,7.5
+264,265,Riders of Justice,Anders Thomas Jensen,,,116,Action,Comedy,Drama,7.5
+265,266,Grindhouse,Robert Rodriguez,Eli Roth,Quentin Tarantino,191,Action,Horror,Thriller,7.5
+266,267,Tora! Tora! Tora!,Richard Fleischer,Kinji Fukasaku,Toshio Masuda,144,Action,Drama,History,7.5
+267,268,Midnight Run,Martin Brest,,,126,Action,Comedy,Crime,7.5
+268,269,The Guns of Navarone,J. Lee Thompson,,,158,Action,Adventure,Drama,7.5
+269,270,Headhunters,Morten Tyldum,,,100,Action,Crime,Thriller,7.5
+270,271,Police Story,Jackie Chan,Chi-Hwa Chen,,100,Action,Comedy,Crime,7.5
+271,272,13 Assassins,Takashi Miike,,,141,Action,Adventure,Drama,7.5
+272,273,Ip Man 2,Wilson Yip,,,108,Action,Biography,Drama,7.5
+273,274,House of Flying Daggers,Yimou Zhang,,,119,Action,Adventure,Drama,7.5
+274,275,New World,Park Hoon-jung,,,135,Action,Crime,Drama,7.5
+275,276,A Bittersweet Life,Jee-woon Kim,,,119,Action,Crime,Drama,7.5
+276,277,The Legend of Drunken Master,Chia-Liang Liu,Jackie Chan,,102,Action,Comedy,,7.5
+277,278,The Blind Swordsman: Zatoichi,Takeshi Kitano,,,116,Action,Comedy,Crime,7.5
+278,279,Delhi Belly,Abhinay Deo,Akshat Verma,,103,Action,Comedy,Crime,7.5
+279,280,Tanhaji: The Unsung Warrior,Om Raut,,,135,Action,Biography,Drama,7.5
+280,281,Mesrine: Killer Instinct,Jean-François Richet,,,113,Action,Biography,Crime,7.5
+281,282,Jodhaa Akbar,Ashutosh Gowariker,,,213,Action,Drama,History,7.5
+282,283,Mersal,Atlee,,,172,Action,Thriller,,7.5
+283,284,To Strike,Bilal Lashari,,,130,Action,Crime,Drama,7.5
+284,285,John Wick,Chad Stahelski,David Leitch,,101,Action,Crime,Thriller,7.4
+285,286,John Wick: Chapter 3 - Parabellum,Chad Stahelski,,,130,Action,Crime,Thriller,7.4
+286,287,John Wick: Chapter 2,Chad Stahelski,,,122,Action,Crime,Thriller,7.4
+287,288,Shang-Chi and the Legend of the Ten Rings,Destin Daniel Cretton,,,132,Action,Adventure,Fantasy,7.4
+288,289,Nobody,Ilya Naishuller,,,92,Action,Crime,Drama,7.4
+289,290,Spider-Man: Homecoming,Jon Watts,,,133,Action,Adventure,Sci-Fi,7.4
+290,291,Spider-Man,Sam Raimi,,,121,Action,Adventure,Sci-Fi,7.4
+291,292,Ready Player One,Steven Spielberg,,,140,Action,Adventure,Sci-Fi,7.4
+292,293,Predestination,Michael Spierig,Peter Spierig,,97,Action,Drama,Sci-Fi,7.4
+293,294,Mission: Impossible - Rogue Nation,Christopher McQuarrie,,,131,Action,Adventure,Thriller,7.4
+294,295,Spider-Man: Far from Home,Jon Watts,,,129,Action,Adventure,Comedy,7.4
+295,296,Mission: Impossible - Ghost Protocol,Brad Bird,,,132,Action,Adventure,Thriller,7.4
+296,297,The Last Duel,Ridley Scott,,,152,Action,Drama,History,7.4
+297,298,Spider-Man 2,Sam Raimi,,,127,Action,Adventure,Sci-Fi,7.4
+298,299,Wonder Woman,Patty Jenkins,,,141,Action,Adventure,Fantasy,7.4
+299,300,Superman,Richard Donner,,,143,Action,Adventure,Sci-Fi,7.4
+300,301,The Rock,Michael Bay,,,136,Action,Adventure,Thriller,7.4
+301,302,Looper,Rian Johnson,,,119,Action,Drama,Sci-Fi,7.4
+302,303,X2: X-Men United,Bryan Singer,,,134,Action,Sci-Fi,Thriller,7.4
+303,304,Law Abiding Citizen,F. Gary Gray,,,109,Action,Crime,Drama,7.4
+304,305,War for the Planet of the Apes,Matt Reeves,,,140,Action,Adventure,Drama,7.4
+305,306,How to Train Your Dragon: The Hidden World,Dean DeBlois,,,104,Animation,Action,Adventure,7.4
+306,307,A History of Violence,David Cronenberg,,,96,Action,Crime,Drama,7.4
+307,308,Open Range,Kevin Costner,,,139,Action,Drama,Romance,7.4
+308,309,Sherlock Holmes: A Game of Shadows,Guy Ritchie,,,129,Action,Adventure,Mystery,7.4
+309,310,Bullitt,Peter Yates,,,114,Action,Crime,Thriller,7.4
+310,311,Thief,Michael Mann,,,123,Action,Crime,Drama,7.4
+311,312,Black Dynamite,Scott Sanders,,,84,Action,Comedy,,7.4
+312,313,Rurouni Kenshin Part I: Origins,Keishi Otomo,,,134,Action,Adventure,Drama,7.4
+313,314,Mission Majnu,Shantanu Bagchi,,,129,Action,Drama,History,7.4
+314,315,Drunken Master,Woo-Ping Yuen,,,111,Action,Comedy,,7.4
+315,316,Summer Wars,Mamoru Hosoda,,,114,Animation,Action,Adventure,7.4
+316,317,Mesrine: Public Enemy No. 1,Jean-François Richet,,,133,Action,Biography,Crime,7.4
+317,318,Dungeons & Dragons: Honor Among Thieves,John Francis Daley,Jonathan Goldstein,,134,Action,Adventure,Comedy,7.3
+318,319,Bullet Train,David Leitch,,,127,Action,Comedy,Thriller,7.3
+319,320,No Time to Die,Cary Joji Fukunaga,,,163,Action,Adventure,Thriller,7.3
+320,321,Fast Five,Justin Lin,,,130,Action,Crime,Thriller,7.3
+321,322,Tenet,Christopher Nolan,,,150,Action,Sci-Fi,Thriller,7.3
+322,323,The Karate Kid,John G. Avildsen,,,126,Action,Drama,Family,7.3
+323,324,True Lies,James Cameron,,,141,Action,Comedy,Thriller,7.3
+324,325,Starship Troopers,Paul Verhoeven,,,129,Action,Adventure,Sci-Fi,7.3
+325,326,Men in Black,Barry Sonnenfeld,,,98,Action,Adventure,Comedy,7.3
+326,327,Ant-Man,Peyton Reed,,,117,Action,Comedy,Sci-Fi,7.3
+327,328,The Accountant,Gavin O'Connor,,,128,Action,Thriller,,7.3
+328,329,The Nice Guys,Shane Black,,,116,Action,Comedy,Crime,7.3
+329,330,Black Panther,Ryan Coogler,,,134,Action,Adventure,Sci-Fi,7.3
+330,331,Avengers: Age of Ultron,Joss Whedon,,,141,Action,Adventure,Sci-Fi,7.3
+331,332,X-Men,Bryan Singer,,,104,Action,Adventure,Sci-Fi,7.3
+332,333,Dawn of the Dead,Zack Snyder,,,101,Action,Horror,,7.3
+333,334,Speed,Jan de Bont,,,116,Action,Adventure,Thriller,7.3
+334,335,American Sniper,Clint Eastwood,,,133,Action,Biography,Drama,7.3
+335,336,Face/Off,John Woo,,,138,Action,Crime,Sci-Fi,7.3
+336,337,Alita: Battle Angel,Robert Rodriguez,,,122,Action,Adventure,Sci-Fi,7.3
+337,338,13 Hours,Michael Bay,,,144,Action,Drama,History,7.3
+338,339,Pirates of the Caribbean: Dead Man's Chest,Gore Verbinski,,,151,Action,Adventure,Fantasy,7.3
+339,340,Beverly Hills Cop,Martin Brest,,,105,Action,Comedy,Crime,7.3
+340,341,El Camino: A Breaking Bad Movie,Vince Gilligan,,,122,Action,Crime,Drama,7.3
+341,342,Raya and the Last Dragon,Don Hall,Carlos López Estrada,Paul Briggs,107,Animation,Action,Adventure,7.3
+342,343,Patriots Day,Peter Berg,,,133,Action,Crime,Drama,7.3
+343,344,Eye in the Sky,Gavin Hood,,,102,Action,Drama,Thriller,7.3
+344,345,The Lego Batman Movie,Chris McKay,,,104,Animation,Action,Adventure,7.3
+345,346,Enemy of the State,Tony Scott,,,132,Action,Thriller,,7.3
+346,347,Okja,Bong Joon Ho,,,120,Action,Adventure,Drama,7.3
+347,348,Equilibrium,Kurt Wimmer,,,107,Action,Drama,Sci-Fi,7.3
+348,349,Southpaw,Antoine Fuqua,,,124,Action,Crime,Drama,7.3
+349,350,Megamind,Tom McGrath,,,95,Animation,Action,Comedy,7.3
+350,351,Layer Cake,Matthew Vaughn,,,105,Action,Crime,Drama,7.3
+351,352,The Adventures of Tintin,Steven Spielberg,,,107,Animation,Action,Adventure,7.3
+352,353,The Next Three Days,Paul Haggis,,,133,Action,Crime,Drama,7.3
+353,354,Grosse Pointe Blank,George Armitage,,,107,Action,Comedy,Crime,7.3
+354,355,Star Trek IV: The Voyage Home,Leonard Nimoy,,,119,Action,Adventure,Comedy,7.3
+355,356,The Negotiator,F. Gary Gray,,,140,Action,Crime,Drama,7.3
+356,357,To Live and Die in L.A.,William Friedkin,,,116,Action,Crime,Drama,7.3
+357,358,Crimson Tide,Tony Scott,,,116,Action,Drama,Thriller,7.3
+358,359,From Russia with Love,Terence Young,,,115,Action,Adventure,Thriller,7.3
+359,360,Invictus,Clint Eastwood,,,134,Action,Adventure,Biography,7.3
+360,361,Nikita,Luc Besson,,,117,Action,Crime,Drama,7.3
+361,362,Shaolin Soccer,Stephen Chow,,,87,Action,Comedy,Fantasy,7.3
+362,363,Running Scared,Wayne Kramer,,,122,Action,Crime,Drama,7.3
+363,364,The Getaway,Sam Peckinpah,,,123,Action,Crime,Thriller,7.3
+364,365,Jason and the Argonauts,Don Chaffey,,,104,Action,Adventure,Family,7.3
+365,366,Assault on Precinct 13,John Carpenter,,,91,Action,Crime,Thriller,7.3
+366,367,Red Cliff,John Woo,,,148,Action,Adventure,Drama,7.3
+367,368,Get Carter,Mike Hodges,,,112,Action,Crime,Thriller,7.3
+368,369,Bacurau,Juliano Dornelles,Kleber Mendonça Filho,,131,Action,Adventure,Drama,7.3
+369,370,Ghajini,A.R. Murugadoss,,,186,Action,Drama,Mystery,7.3
+370,371,The Baader Meinhof Complex,Uli Edel,,,150,Action,Biography,Crime,7.3
+371,372,Max Manus: Man of War,Joachim Rønning,Espen Sandberg,,118,Action,Biography,Crime,7.3
+372,373,Master,Lokesh Kanagaraj,,,178,Action,Crime,Thriller,7.3
+373,374,The Suicide Squad,James Gunn,,,132,Action,Adventure,Comedy,7.2
+374,375,The Hunger Games,Gary Ross,,,142,Action,Adventure,Sci-Fi,7.2
+375,376,The Equalizer,Antoine Fuqua,,,132,Action,Crime,Thriller,7.2
+376,377,From Dusk Till Dawn,Robert Rodriguez,,,108,Action,Crime,Horror,7.2
+377,378,Silverado,Lawrence Kasdan,,,133,Action,Crime,Drama,7.2
+378,379,The Patriot,Roland Emmerich,,,165,Action,Drama,History,7.2
+379,380,Point Break,Kathryn Bigelow,,,122,Action,Crime,Thriller,7.2
+380,381,21 Jump Street,Phil Lord,Christopher Miller,,109,Action,Comedy,Crime,7.2
+381,382,Kingdom of Heaven,Ridley Scott,,,144,Action,Adventure,Drama,7.2
+382,383,Big Trouble in Little China,John Carpenter,,,99,Action,Adventure,Comedy,7.2
+383,384,King Kong,Peter Jackson,,,187,Action,Adventure,Drama,7.2
+384,385,The Man from U.N.C.L.E.,Guy Ritchie,,,116,Action,Adventure,Comedy,7.2
+385,386,Ronin,John Frankenheimer,,,122,Action,Crime,Thriller,7.2
+386,387,Rango,Gore Verbinski,,,107,Animation,Action,Adventure,7.2
+387,388,Natural Born Killers,Oliver Stone,,,119,Action,Crime,Drama,7.2
+388,389,They Live,John Carpenter,,,94,Action,Horror,Sci-Fi,7.2
+389,390,The Matrix Reloaded,Lana Wachowski,Lilly Wachowski,,138,Action,Sci-Fi,,7.2
+390,391,I Am Legend,Francis Lawrence,,,101,Action,Drama,Horror,7.2
+391,392,The Life Aquatic with Steve Zissou,Wes Anderson,,,119,Action,Adventure,Comedy,7.2
+392,393,GoldenEye,Martin Campbell,,,130,Action,Adventure,Thriller,7.2
+393,394,Unbroken,Angelina Jolie,,,137,Action,Biography,Drama,7.2
+394,395,Willow,Ron Howard,,,126,Action,Adventure,Drama,7.2
+395,396,The Croods,Kirk DeMicco,Chris Sanders,,98,Animation,Action,Adventure,7.2
+396,397,RocknRolla,Guy Ritchie,,,114,Action,Crime,Thriller,7.2
+397,398,Dr. No,Terence Young,,,110,Action,Adventure,Thriller,7.2
+398,399,Old Henry,Potsy Ponciroli,,,99,Action,Drama,Western,7.2
+399,400,Friday Night Lights,Peter Berg,,,118,Action,Drama,Sport,7.2
+400,401,Team America: World Police,Trey Parker,,,98,Action,Comedy,,7.2
+401,402,Kung Fu Panda 2,Jennifer Yuh Nelson,,,90,Animation,Action,Adventure,7.2
+402,403,Anthropoid,Sean Ellis,,,120,Action,Biography,Drama,7.2
+403,404,Star Trek VI: The Undiscovered Country,Nicholas Meyer,,,110,Action,Adventure,Sci-Fi,7.2
+404,405,Batman v Superman: Dawn of Justice (Ultimate Edition),Zack Snyder,,,182,Action,Adventure,Sci-Fi,7.2
+405,406,In the Line of Fire,Wolfgang Petersen,,,128,Action,Crime,Drama,7.2
+406,407,Rise of the Guardians,Peter Ramsey,,,97,Animation,Action,Adventure,7.2
+407,408,Lethal Weapon 2,Richard Donner,,,114,Action,Crime,Thriller,7.2
+408,409,The Italian Job,Peter Collinson,,,99,Action,Comedy,Crime,7.2
+409,410,Vanishing Point,Richard C. Sarafian,,,99,Action,Crime,Thriller,7.2
+410,411,War Horse,Steven Spielberg,,,146,Action,Adventure,Drama,7.2
+411,412,Runaway Train,Andrey Konchalovskiy,,,111,Action,Adventure,Drama,7.2
+412,413,Magnum Force,Ted Post,,,124,Action,Crime,Mystery,7.2
+413,414,The Transformers: The Movie,Nelson Shin,,,84,Animation,Action,Adventure,7.2
+414,415,Arlington Road,Mark Pellington,,,117,Action,Crime,Drama,7.2
+415,416,The Way of the Dragon,Bruce Lee,,,90,Action,Adventure,Comedy,7.2
+416,417,The Hitcher,Robert Harmon,,,97,Action,Mystery,Thriller,7.2
+417,418,The Siege of Jadotville,Richie Smyth,,,108,Action,Drama,History,7.2
+418,419,Django,Sergio Corbucci,,,91,Action,Drama,Western,7.2
+419,420,The Witcher: Nightmare of the Wolf,Kwang Il Han,,,83,Animation,Action,Adventure,7.2
+420,421,Bajirao Mastani,Sanjay Leela Bhansali,,,158,Action,Drama,History,7.2
+421,422,'71,Yann Demange,,,99,Action,Crime,Drama,7.2
+422,423,Harry Brown,Daniel Barber,,,103,Action,Crime,Drama,7.2
+423,424,Fist of Fury,Wei Lo,,,107,Action,Drama,Romance,7.2
+424,425,Marshland,Alberto Rodríguez,,,105,Action,Crime,Mystery,7.2
+425,426,The Good the Bad the Weird,Jee-woon Kim,,,130,Action,Adventure,Comedy,7.2
+426,427,Mongol: The Rise of Genghis Khan,Sergei Bodrov,,,126,Action,Biography,Drama,7.2
+427,428,Final Fantasy VII: Advent Children,Tetsuya Nomura,Takeshi Nozue,,101,Animation,Action,Adventure,7.2
+428,429,Holiday: A Soldier is Never Off Duty,A.R. Murugadoss,,,160,Action,Crime,Thriller,7.2
+429,430,Furious 7,James Wan,,,137,Action,Crime,Thriller,7.1
+430,431,The Mummy,Stephen Sommers,,,124,Action,Adventure,Fantasy,7.1
+431,432,Wrath of Man,Guy Ritchie,,,119,Action,Crime,Thriller,7.1
+432,433,Mission: Impossible,Brian De Palma,,,110,Action,Adventure,Thriller,7.1
+433,434,Free Guy,Shawn Levy,,,115,Action,Adventure,Comedy,7.1
+434,435,Dredd,Pete Travis,,,95,Action,Crime,Sci-Fi,7.1
+435,436,Everest,Baltasar Kormákur,,,121,Action,Adventure,Biography,7.1
+436,437,Tropic Thunder,Ben Stiller,,,107,Action,Comedy,War,7.1
+437,438,Prey,Dan Trachtenberg,,,100,Action,Adventure,Drama,7.1
+438,439,Man of Steel,Zack Snyder,,,143,Action,Adventure,Sci-Fi,7.1
+439,440,Iron Man 3,Shane Black,,,130,Action,Adventure,Sci-Fi,7.1
+440,441,Shooter,Antoine Fuqua,,,124,Action,Drama,Thriller,7.1
+441,442,Pirates of the Caribbean: At World's End,Gore Verbinski,,,169,Action,Adventure,Fantasy,7.1
+442,443,Blade,Stephen Norrington,,,120,Action,Horror,Sci-Fi,7.1
+443,444,Batman Returns,Tim Burton,,,126,Action,Crime,Fantasy,7.1
+444,445,Snowpiercer,Bong Joon Ho,,,126,Action,Drama,Sci-Fi,7.1
+445,446,DC League of Super-Pets,Jared Stern,Sam J. Levine,,105,Animation,Action,Adventure,7.1
+446,447,American Made,Doug Liman,,,115,Action,Comedy,Crime,7.1
+447,448,"I, Robot",Alex Proyas,,,115,Action,Mystery,Sci-Fi,7.1
+448,449,WarGames,John Badham,,,114,Action,Drama,Sci-Fi,7.1
+449,450,We Were Soldiers,Randall Wallace,,,138,Action,Drama,History,7.1
+450,451,Creed II,Steven Caple Jr.,,,130,Action,Drama,Sport,7.1
+451,452,Desperado,Robert Rodriguez,,,104,Action,Crime,Thriller,7.1
+452,453,Deepwater Horizon,Peter Berg,,,107,Action,Drama,History,7.1
+453,454,Live Free or Die Hard,Len Wiseman,,,128,Action,Thriller,,7.1
+454,455,Flags of Our Fathers,Clint Eastwood,,,135,Action,Adventure,Drama,7.1
+455,456,The Poseidon Adventure,Ronald Neame,,,117,Action,Adventure,Drama,7.1
+456,457,Escape from New York,John Carpenter,,,99,Action,Adventure,Sci-Fi,7.1
+457,458,Real Steel,Shawn Levy,,,127,Action,Drama,Sci-Fi,7.1
+458,459,Planet Terror,Robert Rodriguez,,,105,Action,Comedy,Horror,7.1
+459,460,Kung Fu Panda 3,Alessandro Carloni,Jennifer Yuh Nelson,,95,Animation,Action,Adventure,7.1
+460,461,Allied,Robert Zemeckis,,,124,Action,Drama,Romance,7.1
+461,462,No Way Out,Roger Donaldson,,,114,Action,Crime,Drama,7.1
+462,463,Rocky Balboa,Sylvester Stallone,,,102,Action,Drama,Sport,7.1
+463,464,Deja Vu,Tony Scott,,,126,Action,Crime,Sci-Fi,7.1
+464,465,Casualties of War,Brian De Palma,,,113,Action,Crime,Drama,7.1
+465,466,Three Kings,David O. Russell,,,114,Action,Adventure,Comedy,7.1
+466,467,Die Hard 2,Renny Harlin,,,124,Action,Thriller,,7.1
+467,468,Defiance,Edward Zwick,,,137,Action,Drama,History,7.1
+468,469,Brawl in Cell Block 99,S. Craig Zahler,,,132,Action,Crime,Drama,7.1
+469,470,Payback,Brian Helgeland,,,100,Action,Crime,Drama,7.1
+470,471,Enthiran,S. Shankar,,,174,Action,Sci-Fi,Thriller,7.1
+471,472,Ong-Bak: The Thai Warrior,Prachya Pinkaew,,,105,Action,Crime,Thriller,7.1
+472,473,Megan Leavey,Gabriela Cowperthwaite,,,116,Action,Biography,Drama,7.1
+473,474,Kon-Tiki,Joachim Rønning,Espen Sandberg,,118,Action,Adventure,Biography,7.1
+474,475,The Girl Who Played with Fire,Daniel Alfredson,,,129,Action,Crime,Drama,7.1
+475,476,Mosul,Matthew Michael Carnahan,,,101,Action,Drama,War,7.1
+476,477,District B13,Pierre Morel,,,84,Action,Crime,Sci-Fi,7.1
+477,478,God Bless America,Bobcat Goldthwait,,,105,Action,Comedy,Crime,7.1
+478,479,In Order of Disappearance,Hans Petter Moland,,,116,Action,Comedy,Crime,7.1
+479,480,JCVD,Mabrouk El Mechri,,,97,Action,Comedy,Crime,7.1
+480,481,Kaabil,Sanjay Gupta,,,139,Action,Crime,Drama,7.1
+481,482,Dragon Ball Z: Battle of Gods,Masahiro Hosoda,,,85,Animation,Action,Adventure,7.1
+482,483,Don,Farhan Akhtar,,,171,Action,Crime,Thriller,7.1
+483,484,Koi... Mil Gaya,Rakesh Roshan,,,171,Action,Drama,Romance,7.1
+484,485,Micmacs,Jean-Pierre Jeunet,,,105,Action,Comedy,Crime,7.1
+485,486,Fanaa,Kunal Kohli,,,168,Action,Drama,Romance,7.1
+486,487,Marighella,Wagner Moura,,,155,Action,Drama,History,7.1
+487,488,Gabbar Is Back,Radha Krishna Jagarlamudi,,,128,Action,Crime,Drama,7.1
+488,489,Sisu,Jalmari Helander,,,91,Action,War,,7.0
+489,490,Shazam!,David F. Sandberg,,,132,Action,Adventure,Comedy,7.0
+490,491,Transformers,Michael Bay,,,144,Action,Adventure,Sci-Fi,7.0
+491,492,The Unbearable Weight of Massive Talent,Tom Gormican,,,107,Action,Comedy,Crime,7.0
+492,493,Fast & Furious 6,Justin Lin,,,130,Action,Adventure,Crime,7.0
+493,494,The Northman,Robert Eggers,,,137,Action,Adventure,Drama,7.0
+494,495,Jack Reacher,Christopher McQuarrie,,,130,Action,Mystery,Thriller,7.0
+495,496,Thor,Kenneth Branagh,,,115,Action,Fantasy,,7.0
+496,497,Underworld,Len Wiseman,,,121,Action,Fantasy,Thriller,7.0
+497,498,Independence Day,Roland Emmerich,,,145,Action,Adventure,Sci-Fi,7.0
+498,499,Ant-Man and the Wasp,Peyton Reed,,,118,Action,Adventure,Comedy,7.0
+499,500,Constantine,Francis Lawrence,,,121,Action,Fantasy,Horror,7.0
+500,501,Super 8,J.J. Abrams,,,112,Action,Mystery,Sci-Fi,7.0
+501,502,Cloverfield,Matt Reeves,,,85,Action,Adventure,Horror,7.0
+502,503,World War Z,Marc Forster,,,116,Action,Adventure,Horror,7.0
+503,504,Death Proof,Quentin Tarantino,,,127,Action,Thriller,,7.0
+504,505,Star Trek Beyond,Justin Lin,,,122,Action,Adventure,Sci-Fi,7.0
+505,506,Greyhound,Aaron Schneider,,,91,Action,Drama,History,7.0
+506,507,Rush Hour,Brett Ratner,,,98,Action,Comedy,Crime,7.0
+507,508,Oblivion,Joseph Kosinski,,,124,Action,Adventure,Sci-Fi,7.0
+508,509,Stargate,Roland Emmerich,,,116,Action,Adventure,Sci-Fi,7.0
+509,510,The Italian Job,F. Gary Gray,,,111,Action,Crime,Thriller,7.0
+510,511,Smokey and the Bandit,Hal Needham,,,96,Action,Adventure,Comedy,7.0
+511,512,Spy,Paul Feig,,,120,Action,Comedy,,7.0
+512,513,Highlander,Russell Mulcahy,,,116,Action,Adventure,Fantasy,7.0
+513,514,Sicario: Day of the Soldado,Stefano Sollima,,,122,Action,Crime,Drama,7.0
+514,515,Pitch Black,David Twohy,,,109,Action,Horror,Sci-Fi,7.0
+515,516,RED,Robert Schwentke,,,111,Action,Comedy,Crime,7.0
+516,517,Logan Lucky,Steven Soderbergh,,,118,Action,Comedy,Crime,7.0
+517,518,Den of Thieves,Christian Gudegast,,,140,Action,Crime,Drama,7.0
+518,519,Unleashed,Louis Leterrier,,,103,Action,Crime,Drama,7.0
+519,520,22 Jump Street,Phil Lord,Christopher Miller,,112,Action,Comedy,Crime,7.0
+520,521,Brotherhood of the Wolf,Christophe Gans,,,142,Action,Adventure,Drama,7.0
+521,522,Public Enemies,Michael Mann,,,140,Action,Biography,Crime,7.0
+522,523,Bronson,Nicolas Winding Refn,,,92,Action,Crime,Drama,7.0
+523,524,The Foreigner,Martin Campbell,,,113,Action,Thriller,,7.0
+524,525,Chip 'n Dale: Rescue Rangers,Akiva Schaffer,,,97,Animation,Action,Adventure,7.0
+525,526,Rambo,Sylvester Stallone,,,92,Action,Adventure,Thriller,7.0
+526,527,The Kingdom,Peter Berg,,,110,Action,Drama,Thriller,7.0
+527,528,Chronicle,Josh Trank,,,84,Action,Drama,Sci-Fi,7.0
+528,529,Fallen,Gregory Hoblit,,,124,Action,Crime,Drama,7.0
+529,530,Body of Lies,Ridley Scott,,,128,Action,Drama,Thriller,7.0
+530,531,The Last Boy Scout,Tony Scott,,,105,Action,Comedy,Crime,7.0
+531,532,Hellboy II: The Golden Army,Guillermo del Toro,,,120,Action,Adventure,Fantasy,7.0
+532,533,Thunderbolt and Lightfoot,Michael Cimino,,,115,Action,Comedy,Crime,7.0
+533,534,9,Shane Acker,,,79,Animation,Action,Adventure,7.0
+534,535,A Most Violent Year,J.C. Chandor,,,125,Action,Crime,Drama,7.0
+535,536,Ip Man 4: The Finale,Wilson Yip,,,107,Action,Biography,Drama,7.0
+536,537,The Towering Inferno,John Guillermin,,,165,Action,Drama,Thriller,7.0
+537,538,The Spy Who Loved Me,Lewis Gilbert,,,125,Action,Adventure,Thriller,7.0
+538,539,Filth,Jon S. Baird,,,97,Action,Comedy,Crime,7.0
+539,540,Maverick,Richard Donner,,,127,Action,Adventure,Comedy,7.0
+540,541,Spy Game,Tony Scott,,,126,Action,Crime,Thriller,7.0
+541,542,Taxi,Gérard Pirès,,,89,Action,Comedy,Crime,7.0
+542,543,Ichi the Killer,Takashi Miike,,,129,Action,Crime,Drama,7.0
+543,544,The War of the Worlds,Byron Haskin,,,85,Action,Sci-Fi,Thriller,7.0
+544,545,An Action Hero,Anirudh Iyer,,,130,Action,Comedy,Crime,7.0
+545,546,Juice,Ernest R. Dickerson,,,95,Action,Crime,Drama,7.0
+546,547,Son of Rambow,Garth Jennings,,,96,Action,Adventure,Comedy,7.0
+547,548,Ip Man 3,Wilson Yip,,,105,Action,Biography,Drama,7.0
+548,549,Dragon: The Bruce Lee Story,Rob Cohen,,,120,Action,Biography,Drama,7.0
+549,550,Curse of the Golden Flower,Yimou Zhang,,,114,Action,Drama,Romance,7.0
+550,551,Sultan,Ali Abbas Zafar,,,170,Action,Drama,Romance,7.0
+551,552,The Protector,Prachya Pinkaew,,,111,Action,Crime,Drama,7.0
+552,553,Kabir Singh,Sandeep Reddy Vanga,,,173,Action,Drama,Romance,7.0
+553,554,Don 2,Farhan Akhtar,,,148,Action,Crime,Thriller,7.0
+554,555,Main Hoon Na,Farah Khan,,,179,Action,Comedy,Drama,7.0
+555,556,The Warlords,Peter Ho-Sun Chan,Wai-Man Yip,,126,Action,Adventure,Drama,7.0
+556,557,The Legend Is Born: Ip Man,Herman Yau,,,100,Action,Biography,Drama,7.0
+557,558,Vikrant Rona,Anup Bhandari,,,148,Action,Crime,Drama,7.0
+558,559,Top Gun,Tony Scott,,,109,Action,Drama,,6.9
+559,560,The Woman King,Gina Prince-Bythewood,,,135,Action,Drama,History,6.9
+560,561,The Magnificent Seven,Antoine Fuqua,,,132,Action,Adventure,Drama,6.9
+561,562,The Last Kingdom: Seven Kings Must Die,Edward Bazalgette,,,111,Action,Drama,History,6.9
+562,563,Doctor Strange in the Multiverse of Madness,Sam Raimi,,,126,Action,Adventure,Fantasy,6.9
+563,564,Game Night,John Francis Daley,Jonathan Goldstein,,100,Action,Adventure,Comedy,6.9
+564,565,Captain America: The First Avenger,Joe Johnston,,,124,Action,Adventure,Sci-Fi,6.9
+565,566,Conan the Barbarian,John Milius,,,129,Action,Adventure,Fantasy,6.9
+566,567,Jumanji: Welcome to the Jungle,Jake Kasdan,,,119,Action,Adventure,Comedy,6.9
+567,568,Jurassic World,Colin Trevorrow,,,124,Action,Adventure,Sci-Fi,6.9
+568,569,The Amazing Spider-Man,Marc Webb,,,136,Action,Adventure,Sci-Fi,6.9
+569,570,Star Wars: Episode VIII - The Last Jedi,Rian Johnson,,,152,Action,Adventure,Fantasy,6.9
+570,571,Solo: A Star Wars Story,Ron Howard,,,135,Action,Adventure,Sci-Fi,6.9
+571,572,Mission: Impossible III,J.J. Abrams,,,126,Action,Adventure,Thriller,6.9
+572,573,The Mask,Chuck Russell,,,101,Action,Comedy,Crime,6.9
+573,574,The Guardian,Andrew Davis,,,139,Action,Adventure,Drama,6.9
+574,575,A Knight's Tale,Brian Helgeland,,,132,Action,Adventure,Romance,6.9
+575,576,Iron Man 2,Jon Favreau,,,124,Action,Sci-Fi,,6.9
+576,577,X-Men: Apocalypse,Bryan Singer,,,144,Action,Adventure,Sci-Fi,6.9
+577,578,Con Air,Simon West,,,115,Action,Crime,Thriller,6.9
+578,579,Pacific Rim,Guillermo del Toro,,,131,Action,Adventure,Sci-Fi,6.9
+579,580,Atlantis: The Lost Empire,Gary Trousdale,Kirk Wise,,95,Animation,Action,Adventure,6.9
+580,581,Romancing the Stone,Robert Zemeckis,,,106,Action,Adventure,Comedy,6.9
+581,582,Robin Hood: Prince of Thieves,Kevin Reynolds,,,143,Action,Adventure,Drama,6.9
+582,583,National Treasure,Jon Turteltaub,,,131,Action,Adventure,Mystery,6.9
+583,584,The Hitman's Bodyguard,Patrick Hughes,,,118,Action,Comedy,Crime,6.9
+584,585,Dragged Across Concrete,S. Craig Zahler,,,159,Action,Crime,Drama,6.9
+585,586,Love and Monsters,Michael Matthews,,,109,Action,Adventure,Comedy,6.9
+586,587,Clear and Present Danger,Phillip Noyce,,,141,Action,Crime,Drama,6.9
+587,588,The World's End,Edgar Wright,,,109,Action,Comedy,Sci-Fi,6.9
+588,589,28 Weeks Later,Juan Carlos Fresnadillo,,,100,Action,Adventure,Horror,6.9
+589,590,In the Heart of the Sea,Ron Howard,,,122,Action,Adventure,Biography,6.9
+590,591,Pineapple Express,David Gordon Green,,,111,Action,Comedy,Crime,6.9
+591,592,Outlaw King,David Mackenzie,,,121,Action,Biography,Drama,6.9
+592,593,Clash of the Titans,Desmond Davis,,,118,Action,Adventure,Family,6.9
+593,594,Thunderball,Terence Young,,,130,Action,Adventure,Thriller,6.9
+594,595,Crank,Mark Neveldine,Brian Taylor,,88,Action,Crime,Thriller,6.9
+595,596,Non-Stop,Jaume Collet-Serra,,,106,Action,Mystery,Thriller,6.9
+596,597,The Edge,Lee Tamahori,,,117,Action,Adventure,Drama,6.9
+597,598,48 Hrs.,Walter Hill,,,96,Action,Comedy,Crime,6.9
+598,599,The Last Castle,Rod Lurie,,,131,Action,Drama,Thriller,6.9
+599,600,Death Wish,Michael Winner,,,93,Action,Crime,Drama,6.9
+600,601,The Night Comes for Us,Timo Tjahjanto,,,121,Action,Crime,Thriller,6.9
+601,602,Repo Man,Alex Cox,,,92,Action,Comedy,Crime,6.9
+602,603,Westworld,Michael Crichton,,,88,Action,Sci-Fi,Thriller,6.9
+603,604,Memphis Belle,Michael Caton-Jones,,,107,Action,Drama,War,6.9
+604,605,The Monster Squad,Fred Dekker,,,79,Action,Comedy,Fantasy,6.9
+605,606,Muppet Treasure Island,Brian Henson,David Lane,,99,Action,Adventure,Comedy,6.9
+606,607,Free State of Jones,Gary Ross,,,139,Action,Biography,Drama,6.9
+607,608,All Is Lost,J.C. Chandor,,,106,Action,Adventure,Drama,6.9
+608,609,Legend of the Guardians: The Owls of Ga'Hoole,Zack Snyder,,,97,Animation,Action,Adventure,6.9
+609,610,Get the Gringo,Adrian Grunberg,,,96,Action,Drama,Thriller,6.9
+610,611,The Big Boss,Wei Lo,Chia-Hsiang Wu,,99,Action,Crime,Drama,6.9
+611,612,New Police Story,Benny Chan,,,123,Action,Crime,Thriller,6.9
+612,613,Traitor,Jeffrey Nachmanoff,,,114,Action,Crime,Drama,6.9
+613,614,Slow West,John Maclean,,,84,Action,Adventure,Drama,6.9
+614,615,Agneepath,Karan Malhotra,,,174,Action,Crime,Drama,6.9
+615,616,Alan Partridge,Declan Lowney,,,90,Action,Comedy,Crime,6.9
+616,617,Fan,Maneesh Sharma,,,142,Action,Drama,Thriller,6.9
+617,618,The Legend,Jerry,Joseph D. Sami,,161,Action,Drama,Romance,6.9
+618,619,The Fast and the Furious,Rob Cohen,,,106,Action,Crime,Thriller,6.8
+619,620,Ready or Not,Matt Bettinelli-Olpin,Tyler Gillett,,95,Action,Comedy,Horror,6.8
+620,621,Aquaman,James Wan,,,143,Action,Adventure,Fantasy,6.8
+621,622,Mad Max,George Miller,,,88,Action,Adventure,Sci-Fi,6.8
+622,623,Captain Marvel,Anna Boden,Ryan Fleck,,123,Action,Adventure,Sci-Fi,6.8
+623,624,Men in Black 3,Barry Sonnenfeld,,,106,Action,Adventure,Comedy,6.8
+624,625,The Maze Runner,Wes Ball,,,113,Action,Mystery,Sci-Fi,6.8
+625,626,TRON: Legacy,Joseph Kosinski,,,125,Action,Adventure,Sci-Fi,6.8
+626,627,Spectre,Sam Mendes,,,148,Action,Adventure,Thriller,6.8
+627,628,What Happened to Monday,Tommy Wirkola,,,123,Action,Crime,Fantasy,6.8
+628,629,Hellboy,Guillermo del Toro,,,122,Action,Adventure,Fantasy,6.8
+629,630,Thor: The Dark World,Alan Taylor,,,112,Action,Adventure,Fantasy,6.8
+630,631,Hanna,Joe Wright,,,111,Action,Adventure,Drama,6.8
+631,632,Bloodsport,Newt Arnold,,,92,Action,Biography,Drama,6.8
+632,633,Bad Boys,Michael Bay,,,119,Action,Comedy,Crime,6.8
+633,634,The Book of Eli,Albert Hughes,Allen Hughes,,118,Action,Adventure,Drama,6.8
+634,635,Boss Level,Joe Carnahan,,,100,Action,Adventure,Comedy,6.8
+635,636,You Only Live Twice,Lewis Gilbert,,,117,Action,Adventure,Thriller,6.8
+636,637,Young Guns,Christopher Cain,,,107,Action,Drama,Western,6.8
+637,638,The Transporter,Louis Leterrier,Corey Yuen,,92,Action,Crime,Thriller,6.8
+638,639,News of the World,Paul Greengrass,,,118,Action,Adventure,Drama,6.8
+639,640,Ghostbusters,Paul Feig,,,117,Action,Comedy,Fantasy,6.8
+640,641,The Outpost,Rod Lurie,,,123,Action,Drama,History,6.8
+641,642,The Island,Michael Bay,,,136,Action,Sci-Fi,Thriller,6.8
+642,643,Logan's Run,Michael Anderson,,,119,Action,Adventure,Sci-Fi,6.8
+643,644,The Long Kiss Goodnight,Renny Harlin,,,121,Action,Crime,Drama,6.8
+644,645,Chappie,Neill Blomkamp,,,120,Action,Crime,Drama,6.8
+645,646,The Mask of Zorro,Martin Campbell,,,136,Action,Adventure,Comedy,6.8
+646,647,Kisi Ka Bhai Kisi Ki Jaan,Farhad Samji,,,145,Action,Comedy,Drama,6.8
+647,648,Superman II,Richard Lester,Richard Donner,,127,Action,Adventure,Sci-Fi,6.8
+648,649,Patriot Games,Phillip Noyce,,,117,Action,Thriller,,6.8
+649,650,Unstoppable,Tony Scott,,,98,Action,Thriller,,6.8
+650,651,Shin Godzilla,Hideaki Anno,Shinji Higuchi,,120,Action,Drama,Horror,6.8
+651,652,Spies in Disguise,Nick Bruno,Troy Quane,,102,Animation,Action,Adventure,6.8
+652,653,Street Kings,David Ayer,,,109,Action,Crime,Thriller,6.8
+653,654,Four Brothers,John Singleton,,,109,Action,Crime,Drama,6.8
+654,655,The Score,Frank Oz,,,124,Action,Crime,Drama,6.8
+655,656,Innerspace,Joe Dante,,,120,Action,Adventure,Comedy,6.8
+656,657,Unknown,Jaume Collet-Serra,,,113,Action,Mystery,Thriller,6.8
+657,658,Dog Soldiers,Neil Marshall,,,105,Action,Horror,Thriller,6.8
+658,659,Tristan + Isolde,Kevin Reynolds,,,125,Action,Drama,Romance,6.8
+659,660,Three Steps Above Heaven,Fernando González Molina,,,118,Action,Drama,Romance,6.8
+660,661,El Mariachi,Robert Rodriguez,,,81,Action,Crime,Thriller,6.8
+661,662,Enemy Mine,Wolfgang Petersen,,,108,Action,Adventure,Drama,6.8
+662,663,Green Zone,Paul Greengrass,,,115,Action,Drama,Thriller,6.8
+663,664,We Own the Night,James Gray,,,117,Action,Crime,Drama,6.8
+664,665,Harsh Times,David Ayer,,,116,Action,Crime,Drama,6.8
+665,666,Who Am I?,Benny Chan,Jackie Chan,,108,Action,Adventure,Comedy,6.8
+666,667,Dead Snow 2: Red vs. Dead,Tommy Wirkola,,,100,Action,Comedy,Fantasy,6.8
+667,668,Violent Night,Tommy Wirkola,,,112,Action,Comedy,Crime,6.7
+668,669,Black Panther: Wakanda Forever,Ryan Coogler,,,161,Action,Adventure,Drama,6.7
+669,670,Extraction,Sam Hargrave,,,116,Action,Thriller,,6.7
+670,671,Black Widow,Cate Shortland,,,134,Action,Adventure,Sci-Fi,6.7
+671,672,Kingsman: The Golden Circle,Matthew Vaughn,,,141,Action,Adventure,Comedy,6.7
+672,673,Commando,Mark L. Lester,,,90,Action,Adventure,Thriller,6.7
+673,674,Safe House,Daniel Espinosa,,,115,Action,Thriller,,6.7
+674,675,Jumanji: The Next Level,Jake Kasdan,,,123,Action,Adventure,Comedy,6.7
+675,676,Bumblebee,Travis Knight,,,114,Action,Adventure,Sci-Fi,6.7
+676,677,Road House,Rowdy Herrington,,,114,Action,Thriller,,6.7
+677,678,In Time,Andrew Niccol,,,109,Action,Sci-Fi,Thriller,6.7
+678,679,The Equalizer 2,Antoine Fuqua,,,121,Action,Crime,Thriller,6.7
+679,680,Warcraft,Duncan Jones,,,123,Action,Adventure,Fantasy,6.7
+680,681,Armageddon,Michael Bay,,,151,Action,Adventure,Sci-Fi,6.7
+681,682,The Adam Project,Shawn Levy,,,106,Action,Adventure,Comedy,6.7
+682,683,Teenage Mutant Ninja Turtles,Steve Barron,,,93,Action,Adventure,Comedy,6.7
+683,684,Wanted,Timur Bekmambetov,,,110,Action,Crime,Thriller,6.7
+684,685,Atomic Blonde,David Leitch,,,115,Action,Thriller,,6.7
+685,686,Midway,Roland Emmerich,,,138,Action,Drama,History,6.7
+686,687,King Arthur: Legend of the Sword,Guy Ritchie,,,126,Action,Adventure,Drama,6.7
+687,688,The Guest,Adam Wingard,,,100,Action,Mystery,Thriller,6.7
+688,689,Enola Holmes 2,Harry Bradbeer,,,129,Action,Adventure,Crime,6.7
+689,690,The A-Team,Joe Carnahan,,,117,Action,Adventure,Crime,6.7
+690,691,The Wolverine,James Mangold,,,126,Action,Sci-Fi,,6.7
+691,692,2 Guns,Baltasar Kormákur,,,109,Action,Thriller,,6.7
+692,693,The Last Starfighter,Nick Castle,,,101,Action,Adventure,Sci-Fi,6.7
+693,694,Tron,Steven Lisberger,,,96,Action,Adventure,Sci-Fi,6.7
+694,695,Pandorum,Christian Alvart,,,108,Action,Horror,Mystery,6.7
+695,696,Zombieland: Double Tap,Ruben Fleischer,,,99,Action,Comedy,Horror,6.7
+696,697,Wyatt Earp,Lawrence Kasdan,,,191,Action,Adventure,Biography,6.7
+697,698,Demolition Man,Marco Brambilla,,,115,Action,Sci-Fi,Thriller,6.7
+698,699,Blade II,Guillermo del Toro,,,117,Action,Horror,Sci-Fi,6.7
+699,700,No Escape,John Erick Dowdle,,,103,Action,Thriller,,6.7
+700,701,On Her Majesty's Secret Service,Peter R. Hunt,,,142,Action,Adventure,Thriller,6.7
+701,702,Escape Plan,Mikael Håfström,,,115,Action,Thriller,,6.7
+702,703,The Matrix Revolutions,Lana Wachowski,Lilly Wachowski,,129,Action,Sci-Fi,,6.7
+703,704,Super,James Gunn,,,96,Action,Comedy,Crime,6.7
+704,705,Live and Let Die,Guy Hamilton,,,121,Action,Adventure,Thriller,6.7
+705,706,Angels & Demons,Ron Howard,,,138,Action,Mystery,Thriller,6.7
+706,707,Hot Shots!,Jim Abrahams,,,84,Action,Comedy,,6.7
+707,708,Jungle,Greg McLean,,,115,Action,Adventure,Biography,6.7
+708,709,Backdraft,Ron Howard,,,137,Action,Drama,Mystery,6.7
+709,710,The Finest Hours,Craig Gillespie,,,117,Action,Drama,History,6.7
+710,711,Attack the Block,Joe Cornish,,,88,Action,Adventure,Comedy,6.7
+711,712,Out of the Furnace,Scott Cooper,,,116,Action,Crime,Drama,6.7
+712,713,The Living Daylights,John Glen,,,130,Action,Adventure,Thriller,6.7
+713,714,The Grey,Joe Carnahan,,,117,Action,Adventure,Drama,6.7
+714,715,Gangster Squad,Ruben Fleischer,,,113,Action,Crime,Drama,6.7
+715,716,Colors,Dennis Hopper,,,120,Action,Crime,Drama,6.7
+716,717,Absolute Power,Clint Eastwood,,,121,Action,Crime,Drama,6.7
+717,718,Harriet,Kasi Lemmons,,,125,Action,Biography,Drama,6.7
+718,719,The Man with the Golden Gun,Guy Hamilton,,,125,Action,Adventure,Thriller,6.7
+719,720,Underworld: Evolution,Len Wiseman,,,106,Action,Fantasy,Thriller,6.7
+720,721,For Your Eyes Only,John Glen,,,127,Action,Adventure,Thriller,6.7
+721,722,Rumble in the Bronx,Stanley Tong,,,87,Action,Comedy,Crime,6.7
+722,723,Hamburger Hill,John Irvin,,,110,Action,Drama,Thriller,6.7
+723,724,Appaloosa,Ed Harris,,,115,Action,Crime,Drama,6.7
+724,725,Pete's Dragon,David Lowery,,,102,Action,Adventure,Comedy,6.7
+725,726,Hardcore Henry,Ilya Naishuller,,,96,Action,Adventure,Sci-Fi,6.7
+726,727,The Salvation,Kristian Levring,,,92,Action,Drama,Thriller,6.7
+727,728,Conspiracy Theory,Richard Donner,,,135,Action,Mystery,Thriller,6.7
+728,729,Lethal Weapon 3,Richard Donner,,,118,Action,Crime,Thriller,6.7
+729,730,Tales from the Crypt: Demon Knight,Ernest R. Dickerson,,,92,Action,Fantasy,Horror,6.7
+730,731,Death Sentence,James Wan,,,105,Action,Crime,Drama,6.7
+731,732,Brooklyn's Finest,Antoine Fuqua,,,132,Action,Crime,Drama,6.7
+732,733,Ransom,Ron Howard,,,121,Action,Crime,Thriller,6.7
+733,734,The Enforcer,James Fargo,,,96,Action,Crime,Thriller,6.7
+734,735,Machine Gun Preacher,Marc Forster,,,129,Action,Biography,Crime,6.7
+735,736,Hidalgo,Joe Johnston,,,136,Action,Adventure,Biography,6.7
+736,737,Nothing to Lose,Steve Oedekerk,,,98,Action,Adventure,Comedy,6.7
+737,738,Blood and Bone,Ben Ramsey,,,93,Action,Crime,Drama,6.7
+738,739,The Brothers Bloom,Rian Johnson,,,114,Action,Adventure,Comedy,6.7
+739,740,The Brave One,Neil Jordan,,,122,Action,Crime,Drama,6.7
+740,741,Stakeout,John Badham,,,117,Action,Comedy,Crime,6.7
+741,742,Wild Target,Jonathan Lynn,,,98,Action,Comedy,Crime,6.7
+742,743,Turbo Kid,François Simard,Anouk Whissell,Yoann-Karl Whissell,93,Action,Adventure,Comedy,6.7
+743,744,Om Shanti Om,Farah Khan,,,162,Action,Comedy,Drama,6.7
+744,745,Antim: The Final Truth,Mahesh Manjrekar,,,138,Action,Crime,Drama,6.7
+745,746,The Fate of the Furious,F. Gary Gray,,,136,Action,Crime,Thriller,6.6
+746,747,Venom,Ruben Fleischer,,,112,Action,Adventure,Sci-Fi,6.6
+747,748,Red Sparrow,Francis Lawrence,,,140,Action,Drama,Thriller,6.6
+748,749,Star Wars: Episode II - Attack of the Clones,George Lucas,,,142,Action,Adventure,Fantasy,6.6
+749,750,Resident Evil,Paul W.S. Anderson,,,100,Action,Horror,Sci-Fi,6.6
+750,751,Divergent,Neil Burger,,,139,Action,Adventure,Mystery,6.6
+751,752,Kong: Skull Island,Jordan Vogt-Roberts,,,118,Action,Adventure,Fantasy,6.6
+752,753,Pirates of the Caribbean: On Stranger Tides,Rob Marshall,,,136,Action,Adventure,Fantasy,6.6
+753,754,The Running Man,Paul Michael Glaser,,,101,Action,Sci-Fi,Thriller,6.6
+754,755,The Other Guys,Adam McKay,,,107,Action,Comedy,Crime,6.6
+755,756,John Carter,Andrew Stanton,,,132,Action,Adventure,Sci-Fi,6.6
+756,757,The Amazing Spider-Man 2,Marc Webb,,,142,Action,Adventure,Sci-Fi,6.6
+757,758,X-Men: The Last Stand,Brett Ratner,,,104,Action,Adventure,Sci-Fi,6.6
+758,759,Anna,Luc Besson,,,118,Action,Thriller,,6.6
+759,760,Enola Holmes,Harry Bradbeer,,,123,Action,Adventure,Crime,6.6
+760,761,The Old Guard,Gina Prince-Bythewood,,,125,Action,Thriller,,6.6
+761,762,The Incredible Hulk,Louis Leterrier,,,112,Action,Adventure,Sci-Fi,6.6
+762,763,Jungle Cruise,Jaume Collet-Serra,,,127,Action,Adventure,Comedy,6.6
+763,764,Robin Hood,Ridley Scott,,,140,Action,Adventure,Drama,6.6
+764,765,The Hunger Games: Mockingjay - Part 1,Francis Lawrence,,,123,Action,Adventure,Sci-Fi,6.6
+765,766,Ender's Game,Gavin Hood,,,114,Action,Adventure,Sci-Fi,6.6
+766,767,Jason Bourne,Paul Greengrass,,,123,Action,Thriller,,6.6
+767,768,Austin Powers: The Spy Who Shagged Me,Jay Roach,,,95,Action,Adventure,Comedy,6.6
+768,769,The Harder They Fall,Jeymes Samuel,,,139,Action,Drama,Western,6.6
+769,770,Smokin' Aces,Joe Carnahan,,,108,Action,Comedy,Crime,6.6
+770,771,Elysium,Neill Blomkamp,,,109,Action,Drama,Sci-Fi,6.6
+771,772,The Chronicles of Riddick,David Twohy,,,119,Action,Adventure,Sci-Fi,6.6
+772,773,Quantum of Solace,Marc Forster,,,106,Action,Adventure,Mystery,6.6
+773,774,Prince of Persia: The Sands of Time,Mike Newell,,,116,Action,Adventure,Fantasy,6.6
+774,775,The Expendables 2,Simon West,,,103,Action,Adventure,Thriller,6.6
+775,776,Adrift,Baltasar Kormákur,,,96,Action,Adventure,Biography,6.6
+776,777,The Rundown,Peter Berg,,,104,Action,Adventure,Comedy,6.6
+777,778,The 13th Warrior,John McTiernan,Michael Crichton,,102,Action,Adventure,History,6.6
+778,779,The Heat,Paul Feig,,,117,Action,Comedy,Crime,6.6
+779,780,The Bourne Legacy,Tony Gilroy,,,135,Action,Adventure,Thriller,6.6
+780,781,Hunter Killer,Donovan Marsh,,,121,Action,Thriller,,6.6
+781,782,Crocodile Dundee,Peter Faiman,,,97,Action,Adventure,Comedy,6.6
+782,783,Licence to Kill,John Glen,,,133,Action,Adventure,Thriller,6.6
+783,784,Tears of the Sun,Antoine Fuqua,,,121,Action,Drama,Thriller,6.6
+784,785,Rush Hour 2,Brett Ratner,,,90,Action,Comedy,Crime,6.6
+785,786,The Lego Movie 2: The Second Part,Mike Mitchell,,,107,Animation,Action,Adventure,6.6
+786,787,30 Days of Night,David Slade,,,113,Action,Adventure,Horror,6.6
+787,788,Epic,Chris Wedge,,,102,Animation,Action,Adventure,6.6
+788,789,Overlord,Julius Avery,,,110,Action,Horror,Sci-Fi,6.6
+789,790,The Informer,Andrea Di Stefano,,,113,Action,Crime,Drama,6.6
+790,791,Flushed Away,David Bowers,Sam Fell,,85,Animation,Action,Adventure,6.6
+791,792,Machete,Ethan Maniquis,Robert Rodriguez,,105,Action,Crime,Thriller,6.6
+792,793,Joy Ride,John Dahl,,,97,Action,Mystery,Thriller,6.6
+793,794,Rollerball,Norman Jewison,,,125,Action,Sci-Fi,Sport,6.6
+794,795,Bad Boys II,Michael Bay,,,147,Action,Comedy,Crime,6.6
+795,796,U-571,Jonathan Mostow,,,116,Action,War,,6.6
+796,797,Run All Night,Jaume Collet-Serra,,,114,Action,Crime,Thriller,6.6
+797,798,Ghostbusters II,Ivan Reitman,,,108,Action,Comedy,Fantasy,6.6
+798,799,The Girl with All the Gifts,Colm McCarthy,,,111,Action,Adventure,Drama,6.6
+799,800,Penguins of Madagascar,Eric Darnell,Simon J. Smith,,92,Animation,Action,Adventure,6.6
+800,801,Hot Shots! Part Deux,Jim Abrahams,,,86,Action,Comedy,,6.6
+801,802,Outbreak,Wolfgang Petersen,,,127,Action,Drama,Thriller,6.6
+802,803,The Aeronauts,Tom Harper,,,100,Action,Adventure,Drama,6.6
+803,804,Courage Under Fire,Edward Zwick,,,116,Action,Drama,Mystery,6.6
+804,805,Eagle Eye,D.J. Caruso,,,118,Action,Mystery,Thriller,6.6
+805,806,RED 2,Dean Parisot,,,116,Action,Comedy,Crime,6.6
+806,807,Star Trek III: The Search for Spock,Leonard Nimoy,,,105,Action,Adventure,Sci-Fi,6.6
+807,808,Star Trek: Generations,David Carson,,,118,Action,Adventure,Mystery,6.6
+808,809,Shanghai Noon,Tom Dey,,,110,Action,Adventure,Comedy,6.6
+809,810,Black Rain,Ridley Scott,,,125,Action,Crime,Drama,6.6
+810,811,Sudden Impact,Clint Eastwood,,,117,Action,Crime,Thriller,6.6
+811,812,New Jack City,Mario Van Peebles,,,97,Action,Crime,Drama,6.6
+812,813,Titan A.E.,Don Bluth,Gary Goldman,,94,Animation,Action,Adventure,6.6
+813,814,The Final Countdown,Don Taylor,,,103,Action,Adventure,Sci-Fi,6.6
+814,815,Alpha,Albert Hughes,,,96,Action,Adventure,Drama,6.6
+815,816,21 Bridges,Brian Kirk,,,99,Action,Crime,Drama,6.6
+816,817,Kiss of the Dragon,Chris Nahon,,,98,Action,Crime,Thriller,6.6
+817,818,The Wave,Roar Uthaug,,,105,Action,Drama,Thriller,6.6
+818,819,The Recruit,Roger Donaldson,,,115,Action,Thriller,,6.6
+819,820,Man on a Ledge,Asger Leth,,,102,Action,Crime,Thriller,6.6
+820,821,Lethal Weapon 4,Richard Donner,,,127,Action,Crime,Thriller,6.6
+821,822,Outland,Peter Hyams,,,109,Action,Crime,Sci-Fi,6.6
+822,823,Shoot 'Em Up,Michael Davis,,,86,Action,Comedy,Thriller,6.6
+823,824,Edge of Darkness,Martin Campbell,,,117,Action,Drama,Thriller,6.6
+824,825,Vantage Point,Pete Travis,,,90,Action,Crime,Drama,6.6
+825,826,16 Blocks,Richard Donner,,,102,Action,Drama,Thriller,6.6
+826,827,The Way of the Gun,Christopher McQuarrie,,,119,Action,Crime,Drama,6.6
+827,828,The Art of Self-Defense,Riley Stearns,,,104,Action,Comedy,Crime,6.6
+828,829,Seraphim Falls,David Von Ancken,,,115,Action,Drama,Thriller,6.6
+829,830,22 Bullets,Richard Berry,,,117,Action,Crime,Drama,6.6
+830,831,Raees,Rahul Dholakia,,,143,Action,Crime,Drama,6.6
+831,832,Wasabi,Gérard Krawczyk,,,94,Action,Drama,Comedy,6.6
+832,833,Wanted,Prabhu Deva,,,147,Action,Crime,Thriller,6.6
+833,834,Fast & Furious,Justin Lin,,,107,Action,Crime,Thriller,6.5
+834,835,Plane,Jean-François Richet,,,107,Action,Adventure,Thriller,6.5
+835,836,Fast & Furious Presents: Hobbs & Shaw,David Leitch,,,137,Action,Adventure,Thriller,6.5
+836,837,The Gray Man,Anthony Russo,Joe Russo,,122,Action,Thriller,,6.5
+837,838,Star Wars: Episode IX - The Rise of Skywalker,J.J. Abrams,,,141,Action,Adventure,Fantasy,6.5
+838,839,Star Wars: Episode I - The Phantom Menace,George Lucas,,,136,Action,Adventure,Fantasy,6.5
+839,840,Pirates of the Caribbean: Dead Men Tell No Tales,Joachim Rønning,Espen Sandberg,,129,Action,Adventure,Fantasy,6.5
+840,841,The Tomorrow War,Chris McKay,,,138,Action,Adventure,Drama,6.5
+841,842,Homefront,Gary Fleder,,,100,Action,Crime,Thriller,6.5
+842,843,The Hunt,Craig Zobel,,,90,Action,Horror,Thriller,6.5
+843,844,Tag,Jeff Tomsic,,,100,Action,Comedy,,6.5
+844,845,Sonic the Hedgehog 2,Jeff Fowler,,,122,Action,Adventure,Comedy,6.5
+845,846,Gone in 60 Seconds,Dominic Sena,,,118,Action,Crime,Thriller,6.5
+846,847,Pokémon: Detective Pikachu,Rob Letterman,,,104,Action,Adventure,Comedy,6.5
+847,848,Sonic the Hedgehog,Jeff Fowler,,,99,Action,Adventure,Comedy,6.5
+848,849,War of the Worlds,Steven Spielberg,,,116,Action,Adventure,Sci-Fi,6.5
+849,850,The Quick and the Dead,Sam Raimi,,,108,Action,Romance,Thriller,6.5
+850,851,The Lost World: Jurassic Park,Steven Spielberg,,,129,Action,Adventure,Sci-Fi,6.5
+851,852,Triple Frontier,J.C. Chandor,,,125,Action,Thriller,,6.5
+852,853,The Hunger Games: Mockingjay - Part 2,Francis Lawrence,,,137,Action,Adventure,Sci-Fi,6.5
+853,854,X-Men Origins: Wolverine,Gavin Hood,,,107,Action,Sci-Fi,,6.5
+854,855,Mr. & Mrs. Smith,Doug Liman,,,120,Action,Comedy,Crime,6.5
+855,856,Mandy,Panos Cosmatos,,,121,Action,Fantasy,Horror,6.5
+856,857,12 Strong,Nicolai Fuglsig,,,130,Action,Drama,History,6.5
+857,858,Under Siege,Andrew Davis,,,103,Action,Thriller,,6.5
+858,859,Cliffhanger,Renny Harlin,,,113,Action,Adventure,Thriller,6.5
+859,860,The Chronicles of Narnia: Prince Caspian,Andrew Adamson,,,150,Action,Adventure,Family,6.5
+860,861,Flash Gordon,Mike Hodges,,,111,Action,Adventure,Sci-Fi,6.5
+861,862,Terminator Salvation,McG,,,115,Action,Adventure,Sci-Fi,6.5
+862,863,Sin City: A Dame to Kill For,Frank Miller,Robert Rodriguez,,102,Action,Crime,Thriller,6.5
+863,864,Olympus Has Fallen,Antoine Fuqua,,,119,Action,Thriller,,6.5
+864,865,Rambo: First Blood Part II,George P. Cosmatos,,,96,Action,Adventure,Thriller,6.5
+865,866,The Rocketeer,Joe Johnston,,,108,Action,Adventure,Family,6.5
+866,867,Tomorrow Never Dies,Roger Spottiswoode,,,119,Action,Adventure,Thriller,6.5
+867,868,Kick-Ass 2,Jeff Wadlow,,,103,Action,Comedy,Crime,6.5
+868,869,The Perfect Storm,Wolfgang Petersen,,,130,Action,Adventure,Drama,6.5
+869,870,The Mechanic,Simon West,,,93,Action,Crime,Thriller,6.5
+870,871,Bad Boys for Life,Adil El Arbi,Bilall Fallah,,124,Action,Comedy,Crime,6.5
+871,872,The Interview,Evan Goldberg,Seth Rogen,,112,Action,Adventure,Comedy,6.5
+872,873,Swordfish,Dominic Sena,,,99,Action,Crime,Thriller,6.5
+873,874,The Man in the Iron Mask,Randall Wallace,,,132,Action,Adventure,Drama,6.5
+874,875,The Spiderwick Chronicles,Mark Waters,,,96,Action,Adventure,Drama,6.5
+875,876,Nerve,Henry Joost,Ariel Schulman,,96,Action,Adventure,Crime,6.5
+876,877,Diamonds Are Forever,Guy Hamilton,,,120,Action,Adventure,Thriller,6.5
+877,878,Air Force One,Wolfgang Petersen,,,124,Action,Drama,Thriller,6.5
+878,879,Never Back Down,Jeff Wadlow,,,113,Action,Drama,Sport,6.5
+879,880,Get Smart,Peter Segal,,,110,Action,Adventure,Comedy,6.5
+880,881,Octopussy,John Glen,,,131,Action,Adventure,Thriller,6.5
+881,882,Beverly Hills Cop II,Tony Scott,,,100,Action,Comedy,Crime,6.5
+882,883,The Forbidden Kingdom,Rob Minkoff,,,104,Action,Adventure,Fantasy,6.5
+883,884,U.S. Marshals,Stuart Baird,,,131,Action,Crime,Thriller,6.5
+884,885,Peppermint,Pierre Morel,,,101,Action,Thriller,,6.5
+885,886,Safe,Boaz Yakin,,,94,Action,Crime,Thriller,6.5
+886,887,National Treasure: Book of Secrets,Jon Turteltaub,,,124,Action,Adventure,Mystery,6.5
+887,888,Young Guns II,Geoff Murphy,,,104,Action,Drama,Western,6.5
+888,889,A Walk Among the Tombstones,Scott Frank,,,114,Action,Crime,Drama,6.5
+889,890,Space Cowboys,Clint Eastwood,,,130,Action,Adventure,Thriller,6.5
+890,891,Underworld: Rise of the Lycans,Patrick Tatopoulos,,,92,Action,Fantasy,Thriller,6.5
+891,892,Executive Decision,Stuart Baird,,,133,Action,Adventure,Thriller,6.5
+892,893,Cellular,David R. Ellis,,,94,Action,Crime,Thriller,6.5
+893,894,Self/less,Tarsem Singh,,,117,Action,Mystery,Sci-Fi,6.5
+894,895,Batman: The Movie,Leslie H. Martinson,,,105,Action,Adventure,Comedy,6.5
+895,896,The International,Tom Tykwer,,,118,Action,Crime,Drama,6.5
+896,897,The Grandmaster,Kar-Wai Wong,,,130,Action,Biography,Drama,6.5
+897,898,Hostage,Florent-Emilio Siri,,,113,Action,Crime,Drama,6.5
+898,899,Space Sweepers,Sung-hee Jo,,,136,Action,Adventure,Drama,6.5
+899,900,Premium Rush,David Koepp,,,91,Action,Crime,Thriller,6.5
+900,901,Flyboys,Tony Bill,,,140,Action,Drama,History,6.5
+901,902,The Four Feathers,Shekhar Kapur,,,132,Action,Adventure,Drama,6.5
+902,903,Heist,David Mamet,,,109,Action,Crime,Drama,6.5
+903,904,War,Siddharth Anand,,,154,Action,Adventure,Thriller,6.5
+904,905,Ladder 49,Jay Russell,,,115,Action,Drama,Thriller,6.5
+905,906,Taxi 2,Gérard Krawczyk,,,88,Action,Comedy,Crime,6.5
+906,907,Spartan,David Mamet,,,106,Action,Crime,Drama,6.5
+907,908,Dhoom 2,Sanjay Gadhvi,,,152,Action,Crime,Thriller,6.5
+908,909,District 13: Ultimatum,Patrick Alessandrin,,,101,Action,Crime,Thriller,6.5
+909,910,Conquest 1453,Faruk Aksoy,,,162,Action,Drama,History,6.5
+910,911,Valerian and the City of a Thousand Planets,Luc Besson,,,136,Action,Adventure,Fantasy,6.4
+911,912,Greenland,Ric Roman Waugh,,,119,Action,Thriller,,6.4
+912,913,Escape Room,Adam Robitel,,,99,Action,Adventure,Horror,6.4
+913,914,Lucy,Luc Besson,,,89,Action,Sci-Fi,Thriller,6.4
+914,915,Twister,Jan de Bont,,,113,Action,Adventure,Thriller,6.4
+915,916,The Day After Tomorrow,Roland Emmerich,,,124,Action,Adventure,Sci-Fi,6.4
+916,917,Batman v Superman: Dawn of Justice,Zack Snyder,,,151,Action,Adventure,Sci-Fi,6.4
+917,918,Last Action Hero,John McTiernan,,,130,Action,Adventure,Comedy,6.4
+918,919,The Mummy Returns,Stephen Sommers,,,130,Action,Adventure,Fantasy,6.4
+919,920,The Expendables,Sylvester Stallone,,,103,Action,Adventure,Thriller,6.4
+920,921,Godzilla,Gareth Edwards,,,123,Action,Adventure,Sci-Fi,6.4
+921,922,Riddick,David Twohy,,,119,Action,Adventure,Sci-Fi,6.4
+922,923,The Punisher,Jonathan Hensleigh,,,124,Action,Crime,Drama,6.4
+923,924,Alien³,David Fincher,,,114,Action,Horror,Sci-Fi,6.4
+924,925,Tomorrowland,Brad Bird,,,130,Action,Adventure,Family,6.4
+925,926,Angel Has Fallen,Ric Roman Waugh,,,121,Action,Thriller,,6.4
+926,927,Army of Thieves,Matthias Schweighöfer,,,127,Action,Comedy,Crime,6.4
+927,928,Need for Speed,Scott Waugh,,,132,Action,Adventure,Crime,6.4
+928,929,Salt,Phillip Noyce,,,100,Action,Thriller,,6.4
+929,930,The Three Musketeers,Stephen Herek,,,105,Action,Adventure,Romance,6.4
+930,931,Pain & Gain,Michael Bay,,,129,Action,Comedy,Crime,6.4
+931,932,The Vault,Jaume Balagueró,,,118,Action,Adventure,Thriller,6.4
+932,933,Death Race,Paul W.S. Anderson,,,105,Action,Sci-Fi,Thriller,6.4
+933,934,Now You See Me 2,Jon M. Chu,,,129,Action,Adventure,Comedy,6.4
+934,935,Hancock,Peter Berg,,,92,Action,Comedy,Drama,6.4
+935,936,Revenge,Coralie Fargeat,,,108,Action,Drama,Horror,6.4
+936,937,Monsters vs. Aliens,Rob Letterman,Conrad Vernon,,94,Animation,Action,Adventure,6.4
+937,938,Tango & Cash,Andrey Konchalovskiy,Albert Magnoli,,104,Action,Comedy,Crime,6.4
+938,939,Rat Race,Jerry Zucker,,,112,Action,Adventure,Comedy,6.4
+939,940,The Sum of All Fears,Phil Alden Robinson,,,124,Action,Drama,Thriller,6.4
+940,941,Savages,Oliver Stone,,,131,Action,Crime,Drama,6.4
+941,942,Predators,Nimród Antal,,,107,Action,Adventure,Fantasy,6.4
+942,943,Colombiana,Olivier Megaton,,,108,Action,Drama,Thriller,6.4
+943,944,The Lone Ranger,Gore Verbinski,,,150,Action,Adventure,Western,6.4
+944,945,The World Is Not Enough,Michael Apted,,,128,Action,Adventure,Thriller,6.4
+945,946,Act of Valor,Mike McCoy,Scott Waugh,,110,Action,Adventure,Thriller,6.4
+946,947,Darkman,Sam Raimi,,,96,Action,Sci-Fi,Thriller,6.4
+947,948,Faster,George Tillman Jr.,,,98,Action,Crime,Drama,6.4
+948,949,The Purge: Anarchy,James DeMonaco,,,103,Action,Horror,Sci-Fi,6.4
+949,950,Behind Enemy Lines,John Moore,,,106,Action,Drama,Thriller,6.4
+950,951,DragonHeart,Rob Cohen,,,103,Action,Adventure,Fantasy,6.4
+951,952,Kickboxer,Mark DiSalle,David Worth,,97,Action,Sport,Thriller,6.4
+952,953,The Angry Birds Movie 2,Thurop Van Orman,John Rice,,97,Animation,Action,Adventure,6.4
+953,954,The Taking of Pelham 123,Tony Scott,,,106,Action,Crime,Thriller,6.4
+954,955,Star Trek: Nemesis,Stuart Baird,,,116,Action,Adventure,Sci-Fi,6.4
+955,956,Killer Elite,Gary McKendry,,,116,Action,Crime,Thriller,6.4
+956,957,The Jackal,Michael Caton-Jones,,,124,Action,Crime,Drama,6.4
+957,958,Let's Be Cops,Luke Greenfield,,,104,Action,Comedy,Crime,6.4
+958,959,Star Trek: Insurrection,Jonathan Frakes,,,103,Action,Adventure,Sci-Fi,6.4
+959,960,Snitch,Ric Roman Waugh,,,112,Action,Drama,Thriller,6.4
+960,961,The Siege,Edward Zwick,,,116,Action,Thriller,,6.4
+961,962,Lock Up,John Flynn,,,109,Action,Crime,Drama,6.4
+962,963,Blood Father,Jean-François Richet,,,88,Action,Crime,Drama,6.4
+963,964,Daybreakers,Michael Spierig,Peter Spierig,,98,Action,Horror,Sci-Fi,6.4
+964,965,Kill List,Ben Wheatley,,,95,Action,Crime,Horror,6.4
+965,966,Live by Night,Ben Affleck,,,129,Action,Crime,Drama,6.4
+966,967,Shaft,Tim Story,,,111,Action,Comedy,Crime,6.4
+967,968,Basic,John McTiernan,,,98,Action,Crime,Drama,6.4
+968,969,The Rover,David Michôd,,,103,Action,Crime,Drama,6.4
+969,970,Chaos,Tony Giglio,,,106,Action,Crime,Drama,6.4
+970,971,Contraband,Baltasar Kormákur,,,109,Action,Adventure,Crime,6.4
+971,972,Batman: The Killing Joke,Sam Liu,,,76,Animation,Action,Crime,6.4
+972,973,The Omega Man,Boris Sagal,,,98,Action,Drama,Sci-Fi,6.4
+973,974,Here Comes the Boom,Frank Coraci,,,105,Action,Comedy,Sport,6.4
+974,975,From Paris with Love,Pierre Morel,,,92,Action,Crime,Thriller,6.4
+975,976,Final Fantasy: The Spirits Within,Hironobu Sakaguchi,Motonori Sakakibara,,106,Animation,Action,Adventure,6.4
+976,977,Black Death,Christopher Smith,,,102,Action,Drama,History,6.4
+977,978,Just Cause,Arne Glimcher,,,102,Action,Crime,Drama,6.4
+978,979,How I Live Now,Kevin Macdonald,,,101,Action,Adventure,Drama,6.4
+979,980,The Prophecy,Gregory Widen,,,98,Action,Crime,Drama,6.4
+980,981,Last Man Standing,Walter Hill,,,101,Action,Crime,Drama,6.4
+981,982,Dead Man Down,Niels Arden Oplev,,,118,Action,Crime,Drama,6.4
+982,983,Black and Blue,Deon Taylor,,,108,Action,Thriller,,6.4
+983,984,Blood Work,Clint Eastwood,,,110,Action,Crime,Drama,6.4
+984,985,Son of a Gun,Julius Avery,,,108,Action,Crime,Drama,6.4
+985,986,Night Watch,Timur Bekmambetov,,,114,Action,Fantasy,Horror,6.4
+986,987,Ned Kelly,Gregor Jordan,,,110,Action,Adventure,Biography,6.4
+987,988,Resident Evil: Degeneration,Makoto Kamiya,,,98,Animation,Action,Horror,6.4
+988,989,Day Watch,Timur Bekmambetov,,,132,Action,Fantasy,Horror,6.4
+989,990,Redirected,Emilis Velyvis,,,99,Action,Comedy,Crime,6.4
+990,991,Operation Fortune: Ruse de Guerre,Guy Ritchie,,,114,Action,Comedy,Thriller,6.3
+991,992,Black Adam,Jaume Collet-Serra,,,125,Action,Adventure,Fantasy,6.3
+992,993,Uncharted,Ruben Fleischer,,,116,Action,Adventure,,6.3
+993,994,Eternals,Chloé Zhao,,,156,Action,Adventure,Fantasy,6.3
+994,995,The King's Man,Matthew Vaughn,,,131,Action,Adventure,Thriller,6.3
+995,996,Dune,David Lynch,,,137,Action,Adventure,Sci-Fi,6.3
+996,997,Terminator Genisys,Alan Taylor,,,126,Action,Adventure,Sci-Fi,6.3
+997,998,Spider-Man 3,Sam Raimi,,,139,Action,Adventure,Sci-Fi,6.3
+998,999,Godzilla vs. Kong,Adam Wingard,,,113,Action,Sci-Fi,Thriller,6.3
+999,"1,000",Sky High,Mike Mitchell,,,100,Action,Comedy,Family,6.3
+1000,"1,001",Red Notice,Rawson Marshall Thurber,,,118,Action,Comedy,Thriller,6.3
+1001,"1,002",Knight and Day,James Mangold,,,109,Action,Adventure,Comedy,6.3
+1002,"1,003",Ocean's Eight,Gary Ross,,,110,Action,Comedy,Crime,6.3
+1003,"1,004",Red Dawn,John Milius,,,114,Action,Drama,Thriller,6.3
+1004,"1,005",King Arthur,Antoine Fuqua,,,126,Action,Adventure,Drama,6.3
+1005,"1,006",The Last Stand,Jee-woon Kim,,,107,Action,Thriller,Western,6.3
+1006,"1,007",The Shallows,Jaume Collet-Serra,,,86,Action,Drama,Horror,6.3
+1007,"1,008",Run Hide Fight,Kyle Rankin,,,109,Action,Crime,Drama,6.3
+1008,"1,009",Tomb Raider,Roar Uthaug,,,119,Action,Adventure,Fantasy,6.3
+1009,"1,010",Polar,Jonas Åkerlund,,,118,Action,Thriller,,6.3
+1010,"1,011",Ghost in the Shell,Rupert Sanders,,,107,Action,Crime,Drama,6.3
+1011,"1,012",Terminator 3: Rise of the Machines,Jonathan Mostow,,,109,Action,Sci-Fi,,6.3
+1012,"1,013",Waterworld,Kevin Reynolds,,,177,Action,Adventure,Sci-Fi,6.3
+1013,"1,014",The Bodyguard,Mick Jackson,,,129,Action,Drama,Music,6.3
+1014,"1,015",Central Intelligence,Rawson Marshall Thurber,,,107,Action,Comedy,Crime,6.3
+1015,"1,016",White House Down,Roland Emmerich,,,131,Action,Drama,Thriller,6.3
+1016,"1,017",Every Which Way But Loose,James Fargo,,,114,Action,Comedy,,6.3
+1017,"1,018",Spectral,Nic Mathieu,,,107,Action,Adventure,Sci-Fi,6.3
+1018,"1,019",Maze Runner: The Scorch Trials,Wes Ball,,,131,Action,Adventure,Sci-Fi,6.3
+1019,"1,020",Miss Congeniality,Donald Petrie,,,109,Action,Comedy,Crime,6.3
+1020,"1,021",A View to a Kill,John Glen,,,131,Action,Adventure,Thriller,6.3
+1021,"1,022",Bright,David Ayer,,,117,Action,Fantasy,Thriller,6.3
+1022,"1,023",Unlocked,Michael Apted,,,98,Action,Thriller,,6.3
+1023,"1,024",The Angry Birds Movie,Clay Kaytis,Fergal Reilly,,97,Animation,Action,Adventure,6.3
+1024,"1,025",Predator 2,Stephen Hopkins,,,108,Action,Horror,Sci-Fi,6.3
+1025,"1,026",Criminal,Ariel Vromen,,,113,Action,Sci-Fi,Thriller,6.3
+1026,"1,027",My Spy,Peter Segal,,,99,Action,Comedy,,6.3
+1027,"1,028",Jack the Giant Slayer,Bryan Singer,,,114,Action,Adventure,Fantasy,6.3
+1028,"1,029",The Collector,Marcus Dunstan,,,90,Action,Horror,Thriller,6.3
+1029,"1,030",Transporter 2,Louis Leterrier,,,87,Action,Crime,Thriller,6.3
+1030,"1,031",Scouts Guide to the Zombie Apocalypse,Christopher Landon,,,93,Action,Comedy,Horror,6.3
+1031,"1,032",Guns Akimbo,Jason Howden,,,98,Action,Comedy,Crime,6.3
+1032,"1,033",Once Upon a Time in Mexico,Robert Rodriguez,,,102,Action,Crime,Thriller,6.3
+1033,"1,034",Beowulf,Robert Zemeckis,,,115,Animation,Action,Adventure,6.3
+1034,"1,035",Sand Castle,Fernando Coimbra,,,113,Action,Drama,War,6.3
+1035,"1,036",Death Wish,Eli Roth,,,107,Action,Crime,Drama,6.3
+1036,"1,037",The Take,James Watkins,,,92,Action,Crime,Drama,6.3
+1037,"1,038",The Commuter,Jaume Collet-Serra,,,104,Action,Mystery,Thriller,6.3
+1038,"1,039",The Dead Pool,Buddy Van Horn,,,91,Action,Crime,Mystery,6.3
+1039,"1,040",#Alive,Il Cho,,,98,Action,Drama,Horror,6.3
+1040,"1,041",The Black Cauldron,Ted Berman,Richard Rich,,80,Animation,Action,Adventure,6.3
+1041,"1,042",Surrogates,Jonathan Mostow,,,89,Action,Sci-Fi,Thriller,6.3
+1042,"1,043",Revolver,Guy Ritchie,,,111,Action,Crime,Drama,6.3
+1043,"1,044",Ninja Assassin,James McTeigue,,,99,Action,Thriller,,6.3
+1044,"1,045",Osmosis Jones,Bobby Farrelly,Peter Farrelly,,95,Animation,Action,Adventure,6.3
+1045,"1,046",The American,Anton Corbijn,,,105,Action,Crime,Drama,6.3
+1046,"1,047",Triple 9,John Hillcoat,,,115,Action,Crime,Thriller,6.3
+1047,"1,048",Paycheck,John Woo,,,119,Action,Mystery,Sci-Fi,6.3
+1048,"1,049",This Means War,McG,,,103,Action,Comedy,Romance,6.3
+1049,"1,050",Entrapment,Jon Amiel,,,113,Action,Crime,Romance,6.3
+1050,"1,051",Underworld: Awakening,Måns Mårlind,Björn Stein,,88,Action,Fantasy,Horror,6.3
+1051,"1,052",Blue Streak,Les Mayfield,,,93,Action,Comedy,Crime,6.3
+1052,"1,053",Johnny English Reborn,Oliver Parker,,,101,Action,Adventure,Comedy,6.3
+1053,"1,054",Centurion,Neil Marshall,,,97,Action,Drama,History,6.3
+1054,"1,055",Mr. Right,Paco Cabezas,,,95,Action,Comedy,Romance,6.3
+1055,"1,056",Free Fire,Ben Wheatley,,,91,Action,Comedy,Crime,6.3
+1056,"1,057",Repo Men,Miguel Sapochnik,,,111,Action,Sci-Fi,Thriller,6.3
+1057,"1,058",Risen,Kevin Reynolds,,,107,Action,Drama,History,6.3
+1058,"1,059",The November Man,Roger Donaldson,,,108,Action,Thriller,,6.3
+1059,"1,060",Assassins,Richard Donner,,,133,Action,Crime,Thriller,6.3
+1060,"1,061",Escape from the Planet of the Apes,Don Taylor,,,98,Action,Sci-Fi,,6.3
+1061,"1,062",Nick of Time,John Badham,,,90,Action,Crime,Drama,6.3
+1062,"1,063",Assault on Precinct 13,Jean-François Richet,,,109,Action,Crime,Drama,6.3
+1063,"1,064",7500,Patrick Vollrath,,,93,Action,Drama,Thriller,6.3
+1064,"1,065",Proof of Life,Taylor Hackford,,,135,Action,Drama,Thriller,6.3
+1065,"1,066",Formula 51,Ronny Yu,,,93,Action,Comedy,Crime,6.3
+1066,"1,067",ARQ,Tony Elliott,,,88,Action,Sci-Fi,Thriller,6.3
+1067,"1,068",Charlie Countryman,Fredrik Bond,,,103,Action,Comedy,Drama,6.3
+1068,"1,069",Toofaan,Rakeysh Omprakash Mehra,,,163,Action,Drama,Sport,6.3
+1069,"1,070",Fast X,Louis Leterrier,,,141,Action,Adventure,Crime,6.2
+1070,"1,071",Thor: Love and Thunder,Taika Waititi,,,118,Action,Adventure,Comedy,6.2
+1071,"1,072",Indiana Jones and the Kingdom of the Crystal Skull,Steven Spielberg,,,122,Action,Adventure,,6.2
+1072,"1,073",Kindergarten Cop,Ivan Reitman,,,111,Action,Comedy,Crime,6.2
+1073,"1,074",Mad Max Beyond Thunderdome,George Miller,George Ogilvie,,107,Action,Adventure,Sci-Fi,6.2
+1074,"1,075",Terminator: Dark Fate,Tim Miller,,,128,Action,Adventure,Sci-Fi,6.2
+1075,"1,076",Pearl Harbor,Michael Bay,,,183,Action,Drama,History,6.2
+1076,"1,077",Transformers: Dark of the Moon,Michael Bay,,,154,Action,Adventure,Sci-Fi,6.2
+1077,"1,078",The Legend of Tarzan,David Yates,,,110,Action,Adventure,Drama,6.2
+1078,"1,079",Men in Black II,Barry Sonnenfeld,,,88,Action,Adventure,Comedy,6.2
+1079,"1,080",The Karate Kid,Harald Zwart,,,140,Action,Drama,Family,6.2
+1080,"1,081",300: Rise of an Empire,Noam Murro,,,102,Action,Drama,,6.2
+1081,"1,082",Deep Impact,Mimi Leder,,,120,Action,Drama,Sci-Fi,6.2
+1082,"1,083",Austin Powers in Goldmember,Jay Roach,,,94,Action,Adventure,Comedy,6.2
+1083,"1,084",Cold Pursuit,Hans Petter Moland,,,119,Action,Comedy,Crime,6.2
+1084,"1,085",Dracula Untold,Gary Shore,,,92,Action,Drama,Fantasy,6.2
+1085,"1,086",Total Recall,Len Wiseman,,,118,Action,Adventure,Sci-Fi,6.2
+1086,"1,087",Knowing,Alex Proyas,,,121,Action,Mystery,Sci-Fi,6.2
+1087,"1,088",Alien: Resurrection,Jean-Pierre Jeunet,,,109,Action,Horror,Sci-Fi,6.2
+1088,"1,089",Dick Tracy,Warren Beatty,,,105,Action,Comedy,Crime,6.2
+1089,"1,090",RoboCop,José Padilha,,,117,Action,Crime,Sci-Fi,6.2
+1090,"1,091",Transcendence,Wally Pfister,,,119,Action,Drama,Sci-Fi,6.2
+1091,"1,092",Kung Pow: Enter the Fist,Steve Oedekerk,,,81,Action,Comedy,,6.2
+1092,"1,093",Hitman,Xavier Gens,,,100,Action,Crime,Thriller,6.2
+1093,"1,094",Reign of Fire,Rob Bowman,,,101,Action,Adventure,Fantasy,6.2
+1094,"1,095",Kate,Cedric Nicolas-Troyan,,,106,Action,Adventure,Crime,6.2
+1095,"1,096",3 Days to Kill,McG,,,117,Action,Drama,Thriller,6.2
+1096,"1,097",The Cannonball Run,Hal Needham,,,95,Action,Comedy,Sport,6.2
+1097,"1,098",Inferno,Ron Howard,,,121,Action,Adventure,Crime,6.2
+1098,"1,099",47 Ronin,Carl Rinsch,,,128,Action,Drama,Fantasy,6.2
+1099,"1,100",Small Soldiers,Joe Dante,,,110,Action,Adventure,Comedy,6.2
+1100,"1,101",Spenser Confidential,Peter Berg,,,111,Action,Comedy,Crime,6.2
+1101,"1,102",Maze Runner: The Death Cure,Wes Ball,,,143,Action,Adventure,Sci-Fi,6.2
+1102,"1,103",In the Shadow of the Moon,Jim Mickle,,,115,Action,Crime,Mystery,6.2
+1103,"1,104",American Assassin,Michael Cuesta,,,111,Action,Thriller,,6.2
+1104,"1,105",Walking Tall,Kevin Bray,,,86,Action,Crime,,6.2
+1105,"1,106",Rush Hour 3,Brett Ratner,,,91,Action,Comedy,Crime,6.2
+1106,"1,107",Time Trap,Mark Dennis,Ben Foster,,87,Action,Adventure,Mystery,6.2
+1107,"1,108",The Divergent Series: Insurgent,Robert Schwentke,,,119,Action,Adventure,Sci-Fi,6.2
+1108,"1,109",Eraser,Chuck Russell,,,115,Action,Crime,Thriller,6.2
+1109,"1,110",The Losers,Sylvain White,,,97,Action,Adventure,Comedy,6.2
+1110,"1,111",Parker,Taylor Hackford,,,118,Action,Crime,Thriller,6.2
+1111,"1,112",Deliver Us from Evil,Scott Derrickson,,,118,Action,Adventure,Crime,6.2
+1112,"1,113",Keanu,Peter Atencio,,,100,Action,Comedy,Crime,6.2
+1113,"1,114",The Devil's Own,Alan J. Pakula,,,111,Action,Crime,Drama,6.2
+1114,"1,115",Zathura: A Space Adventure,Jon Favreau,,,101,Action,Adventure,Comedy,6.2
+1115,"1,116",Jack Ryan: Shadow Recruit,Kenneth Branagh,,,105,Action,Drama,Thriller,6.2
+1116,"1,117",Tower Heist,Brett Ratner,,,104,Action,Comedy,Crime,6.2
+1117,"1,118",Taken 2,Olivier Megaton,,,92,Action,Crime,Thriller,6.2
+1118,"1,119",Blown Away,Stephen Hopkins,,,121,Action,Crime,Drama,6.2
+1119,"1,120",Copshop,Joe Carnahan,,,107,Action,Thriller,,6.2
+1120,"1,121",The Brothers Grimsby,Louis Leterrier,,,83,Action,Adventure,Comedy,6.2
+1121,"1,122",Takers,John Luessenhop,,,107,Action,Crime,Drama,6.2
+1122,"1,123",The Wall,Doug Liman,,,88,Action,Drama,Thriller,6.2
+1123,"1,124",Hard Target,John Woo,,,97,Action,Crime,Thriller,6.2
+1124,"1,125",TMNT,Kevin Munroe,,,87,Animation,Action,Adventure,6.2
+1125,"1,126",Moonraker,Lewis Gilbert,,,126,Action,Adventure,Sci-Fi,6.2
+1126,"1,127",The Toxic Avenger,Michael Herz,Lloyd Kaufman,,82,Action,Comedy,Horror,6.2
+1127,"1,128",Feast,John Gulager,,,95,Action,Comedy,Horror,6.2
+1128,"1,129",Death Race 2000,Paul Bartel,,,80,Action,Comedy,Sci-Fi,6.2
+1129,"1,130",Shanghai Knights,David Dobkin,,,114,Action,Adventure,Comedy,6.2
+1130,"1,131",Johnny English,Peter Howitt,,,87,Action,Adventure,Comedy,6.2
+1131,"1,132",Rogue,Greg McLean,,,99,Action,Drama,Horror,6.2
+1132,"1,133",Resident Evil: Extinction,Russell Mulcahy,,,94,Action,Horror,Sci-Fi,6.2
+1133,"1,134",Rising Sun,Philip Kaufman,,,129,Action,Crime,Drama,6.2
+1134,"1,135",Redemption,Steven Knight,,,100,Action,Crime,Drama,6.2
+1135,"1,136",Next,Lee Tamahori,,,96,Action,Sci-Fi,Thriller,6.2
+1136,"1,137",Lionheart,Sheldon Lettich,,,108,Action,Crime,Drama,6.2
+1137,"1,138",Captain Underpants: The First Epic Movie,David Soren,,,89,Animation,Action,Adventure,6.2
+1138,"1,139",The Outsider,Martin Zandvliet,,,120,Action,Crime,Drama,6.2
+1139,"1,140",Johnny English Strikes Again,David Kerr,,,89,Action,Adventure,Comedy,6.2
+1140,"1,141",War,Philip G. Atwell,,,103,Action,Crime,Thriller,6.2
+1141,"1,142",The Silencing,Robin Pront,,,93,Action,Crime,Mystery,6.2
+1142,"1,143",Outlander,Howard McCain,,,115,Action,Adventure,Sci-Fi,6.2
+1143,"1,144",Stuber,Michael Dowse,,,93,Action,Comedy,Crime,6.2
+1144,"1,145",Destroyer,Karyn Kusama,,,121,Action,Crime,Drama,6.2
+1145,"1,146",The Saint,Phillip Noyce,,,116,Action,Adventure,Romance,6.2
+1146,"1,147",Astro Boy,David Bowers,,,94,Animation,Action,Adventure,6.2
+1147,"1,148",Pokémon: The First Movie - Mewtwo Strikes Back,Kunihiko Yuyama,,,96,Animation,Action,Adventure,6.2
+1148,"1,149",The Boondock Saints II: All Saints Day,Troy Duffy,,,118,Action,Thriller,,6.2
+1149,"1,150",The Eagle,Kevin Macdonald,,,114,Action,Adventure,Drama,6.2
+1150,"1,151",Loaded Weapon 1,Gene Quintano,,,84,Action,Comedy,Crime,6.2
+1151,"1,152",Last Knights,Kazuaki Kiriya,,,115,Action,Drama,History,6.2
+1152,"1,153",Money Talks,Brett Ratner,,,97,Action,Comedy,Crime,6.2
+1153,"1,154",A Lonely Place to Die,Julian Gilbey,,,99,Action,Adventure,Crime,6.2
+1154,"1,155",Mr. Nice Guy,Sammo Kam-Bo Hung,,,88,Action,Adventure,Comedy,6.2
+1155,"1,156",After the Sunset,Brett Ratner,,,97,Action,Comedy,Crime,6.2
+1156,"1,157",The Warrior's Way,Sngmoo Lee,,,100,Action,Drama,Fantasy,6.2
+1157,"1,158",Ong Bak 2,Tony Jaa,Panna Rittikrai,,98,Action,,,6.2
+1158,"1,159",The Legend of Tomiris,Akan Satayev,,,156,Action,Drama,History,6.2
+1159,"1,160",Dabangg,Abhinav Kashyap,,,126,Action,Comedy,Crime,6.2
+1160,"1,161",Ant-Man and the Wasp: Quantumania,Peyton Reed,,,124,Action,Adventure,Comedy,6.1
+1161,"1,162",Mortal Kombat,Simon McQuoid,,,110,Action,Adventure,Fantasy,6.1
+1162,"1,163",The Lost City,Aaron Nee,Adam Nee,,112,Action,Adventure,Comedy,6.1
+1163,"1,164",Justice League,Zack Snyder,,,120,Action,Adventure,Fantasy,6.1
+1164,"1,165",San Andreas,Brad Peyton,,,114,Action,Adventure,Thriller,6.1
+1165,"1,166",Ambulance,Michael Bay,,,136,Action,Crime,Drama,6.1
+1166,"1,167",Mission: Impossible II,John Woo,,,123,Action,Adventure,Thriller,6.1
+1167,"1,168",The Expendables 3,Patrick Hughes,,,126,Action,Adventure,Thriller,6.1
+1168,"1,169",6 Underground,Michael Bay,,,128,Action,Thriller,,6.1
+1169,"1,170",Jack Reacher: Never Go Back,Edward Zwick,,,118,Action,Crime,Drama,6.1
+1170,"1,171",Birds of Prey,Cathy Yan,,,109,Action,Comedy,Crime,6.1
+1171,"1,172",Lou,Anna Foerster,,,107,Action,Crime,Drama,6.1
+1172,"1,173",Code 8,Jeff Chan,,,98,Action,Crime,Drama,6.1
+1173,"1,174",Jurassic World: Fallen Kingdom,J.A. Bayona,,,128,Action,Adventure,Sci-Fi,6.1
+1174,"1,175",Day Shift,J.J. Perry,,,113,Action,Comedy,Fantasy,6.1
+1175,"1,176",Mortal Engines,Christian Rivers,,,128,Action,Adventure,Fantasy,6.1
+1176,"1,177",Lightyear,Angus MacLane,,,105,Animation,Action,Adventure,6.1
+1177,"1,178",Rambo: Last Blood,Adrian Grunberg,,,89,Action,Crime,Thriller,6.1
+1178,"1,179",Blood Red Sky,Peter Thorwarth,,,121,Action,Adventure,Drama,6.1
+1179,"1,180",The Sorcerer's Apprentice,Jon Turteltaub,,,109,Action,Adventure,Family,6.1
+1180,"1,181",Superman Returns,Bryan Singer,,,154,Action,Adventure,Sci-Fi,6.1
+1181,"1,182",Hitman's Wife's Bodyguard,Patrick Hughes,,,100,Action,Comedy,Crime,6.1
+1182,"1,183",Days of Thunder,Tony Scott,,,107,Action,Drama,Sport,6.1
+1183,"1,184",Rampage,Brad Peyton,,,107,Action,Adventure,Sci-Fi,6.1
+1184,"1,185",Snow White and the Huntsman,Rupert Sanders,,,127,Action,Adventure,Drama,6.1
+1185,"1,186",Gunpowder Milkshake,Navot Papushado,,,114,Action,Crime,Thriller,6.1
+1186,"1,187",Mile 22,Peter Berg,,,94,Action,Thriller,,6.1
+1187,"1,188",The Girl in the Spider's Web,Fede Alvarez,,,115,Action,Crime,Drama,6.1
+1188,"1,189",Speed Racer,Lana Wachowski,Lilly Wachowski,,135,Action,Adventure,Comedy,6.1
+1189,"1,190",I Am Number Four,D.J. Caruso,,,111,Action,Adventure,Sci-Fi,6.1
+1190,"1,191",Die Another Day,Lee Tamahori,,,133,Action,Adventure,Thriller,6.1
+1191,"1,192",Crawl,Alexandre Aja,,,87,Action,Adventure,Horror,6.1
+1192,"1,193",Jumper,Doug Liman,,,88,Action,Adventure,Sci-Fi,6.1
+1193,"1,194",Lifeforce,Tobe Hooper,,,101,Action,Horror,Mystery,6.1
+1194,"1,195",Dora and the Lost City of Gold,James Bobin,,,102,Action,Adventure,Comedy,6.1
+1195,"1,196",Resident Evil: Apocalypse,Alexander Witt,,,94,Action,Horror,Sci-Fi,6.1
+1196,"1,197",Never Say Never Again,Irvin Kershner,,,134,Action,Adventure,Thriller,6.1
+1197,"1,198",Broken Arrow,John Woo,,,108,Action,Adventure,Thriller,6.1
+1198,"1,199",Universal Soldier,Roland Emmerich,,,102,Action,Sci-Fi,,6.1
+1199,"1,200",Hansel & Gretel: Witch Hunters,Tommy Wirkola,,,88,Action,Fantasy,Horror,6.1
+1200,"1,201",The Huntsman: Winter's War,Cedric Nicolas-Troyan,,,114,Action,Adventure,Drama,6.1
+1201,"1,202",The Protégé,Martin Campbell,,,109,Action,Thriller,,6.1
+1202,"1,203",Blitz,Elliott Lester,,,97,Action,Crime,Thriller,6.1
+1203,"1,204",Push,Paul McGuigan,,,111,Action,Sci-Fi,Thriller,6.1
+1204,"1,205",Mystery Men,Kinka Usher,,,121,Action,Comedy,Fantasy,6.1
+1205,"1,206",Vampires,John Carpenter,,,108,Action,Horror,Thriller,6.1
+1206,"1,207",Krull,Peter Yates,,,121,Action,Adventure,Fantasy,6.1
+1207,"1,208",The Postman,Kevin Costner,,,177,Action,Adventure,Drama,6.1
+1208,"1,209",Mercury Rising,Harold Becker,,,111,Action,Crime,Drama,6.1
+1209,"1,210",Deep Rising,Stephen Sommers,,,106,Action,Adventure,Horror,6.1
+1210,"1,211",The Karate Kid Part II,John G. Avildsen,,,113,Action,Family,Sport,6.1
+1211,"1,212",The Sentinel,Clark Johnson,,,108,Action,Crime,Thriller,6.1
+1212,"1,213",Red Heat,Walter Hill,,,104,Action,Comedy,Crime,6.1
+1213,"1,214",Crank: High Voltage,Mark Neveldine,Brian Taylor,,96,Action,Crime,Thriller,6.1
+1214,"1,215",Windtalkers,John Woo,,,134,Action,Drama,War,6.1
+1215,"1,216",Hit and Run,David Palmer,Dax Shepard,,100,Action,Adventure,Comedy,6.1
+1216,"1,217",2.0,S. Shankar,,,148,Action,Sci-Fi,Thriller,6.1
+1217,"1,218",Sphere,Barry Levinson,,,134,Action,Mystery,Sci-Fi,6.1
+1218,"1,219",Romeo Must Die,Andrzej Bartkowiak,,,115,Action,Crime,Thriller,6.1
+1219,"1,220",Ride Along,Tim Story,,,99,Action,Comedy,Crime,6.1
+1220,"1,221",American Ultra,Nima Nourizadeh,,,96,Action,Comedy,,6.1
+1221,"1,222",The Collection,Marcus Dunstan,,,82,Action,Adventure,Horror,6.1
+1222,"1,223",The Jewel of the Nile,Lewis Teague,,,106,Action,Adventure,Comedy,6.1
+1223,"1,224",Big Stan,Rob Schneider,,,105,Action,Comedy,,6.1
+1224,"1,225",Sky Captain and the World of Tomorrow,Kerry Conran,,,106,Action,Adventure,Mystery,6.1
+1225,"1,226",Hotel Artemis,Drew Pearce,,,94,Action,Crime,Drama,6.1
+1226,"1,227",Heist,Scott Mann,,,93,Action,Crime,Drama,6.1
+1227,"1,228",Solomon Kane,M.J. Bassett,,,104,Action,Adventure,Fantasy,6.1
+1228,"1,229",Red State,Kevin Smith,,,88,Action,Crime,Horror,6.1
+1229,"1,230",Broken City,Allen Hughes,,,109,Action,Crime,Drama,6.1
+1230,"1,231",The Promise,Terry George,,,133,Action,Adventure,Drama,6.1
+1231,"1,232",30 Minutes or Less,Ruben Fleischer,,,83,Action,Comedy,Crime,6.1
+1232,"1,233",Flight of the Phoenix,John Moore,,,113,Action,Adventure,Drama,6.1
+1233,"1,234",Point of No Return,John Badham,,,109,Action,Crime,Drama,6.1
+1234,"1,235",Hobo with a Shotgun,Jason Eisener,,,86,Action,Comedy,Horror,6.1
+1235,"1,236",Ironclad,Jonathan English,,,121,Action,Drama,History,6.1
+1236,"1,237",Conquest of the Planet of the Apes,J. Lee Thompson,,,88,Action,Sci-Fi,,6.1
+1237,"1,238",Undisputed,Walter Hill,,,94,Action,Crime,Drama,6.1
+1238,"1,239","Tomorrow, When the War Began",Stuart Beattie,,,104,Action,Adventure,Drama,6.1
+1239,"1,240",Gringo,Nash Edgerton,,,111,Action,Comedy,Crime,6.1
+1240,"1,241",The Replacement Killers,Antoine Fuqua,,,87,Action,Crime,Thriller,6.1
+1241,"1,242",Murder at 1600,Dwight H. Little,,,107,Action,Crime,Drama,6.1
+1242,"1,243",Welcome to the Punch,Eran Creevy,,,99,Action,Crime,Thriller,6.1
+1243,"1,244",The Lovebirds,Michael Showalter,,,86,Action,Comedy,Crime,6.1
+1244,"1,245",Seeking Justice,Roger Donaldson,,,105,Action,Crime,Drama,6.1
+1245,"1,246",15 Minutes,John Herzfeld,,,120,Action,Crime,Drama,6.1
+1246,"1,247",Antitrust,Peter Howitt,,,108,Action,Crime,Drama,6.1
+1247,"1,248",Chennai Express,Rohit Shetty,,,141,Action,Comedy,Drama,6.1
+1248,"1,249",Thunivu,H. Vinoth,,,145,Action,Crime,Thriller,6.1
+1249,"1,250",Sooryavanshi,Rohit Shetty,,,145,Action,Crime,Thriller,6.1
+1250,"1,251",Shazam! Fury of the Gods,David F. Sandberg,,,130,Action,Adventure,Comedy,6.0
+1251,"1,252",The Fast and the Furious: Tokyo Drift,Justin Lin,,,104,Action,Crime,Thriller,6.0
+1252,"1,253",Don't Breathe 2,Rodo Sayagues,,,98,Action,Crime,Horror,6.0
+1253,"1,254",Murder Mystery,Kyle Newacheck,,,97,Action,Comedy,Crime,6.0
+1254,"1,255",Van Helsing,Stephen Sommers,,,131,Action,Adventure,Fantasy,6.0
+1255,"1,256",Godzilla: King of the Monsters,Michael Dougherty,,,132,Action,Adventure,Fantasy,6.0
+1256,"1,257",Immortals,Tarsem Singh,,,110,Action,Drama,Fantasy,6.0
+1257,"1,258",Sucker Punch,Zack Snyder,,,110,Action,Adventure,Fantasy,6.0
+1258,"1,259",S.W.A.T.,Clark Johnson,,,117,Action,Adventure,Crime,6.0
+1259,"1,260",Hercules,Brett Ratner,,,98,Action,Adventure,Fantasy,6.0
+1260,"1,261",Exodus: Gods and Kings,Ridley Scott,,,150,Action,Adventure,Drama,6.0
+1261,"1,262",Those Who Wish Me Dead,Taylor Sheridan,,,100,Action,Drama,Thriller,6.0
+1262,"1,263",The Tourist,Florian Henckel von Donnersmarck,,,103,Action,Thriller,,6.0
+1263,"1,264",Dante's Peak,Roger Donaldson,,,108,Action,Adventure,Thriller,6.0
+1264,"1,265",The Time Machine,Simon Wells,,,96,Action,Adventure,Sci-Fi,6.0
+1265,"1,266",Unhinged,Derrick Borte,,,90,Action,Thriller,,6.0
+1266,"1,267",Miami Vice,Michael Mann,,,132,Action,Adventure,Crime,6.0
+1267,"1,268",G.I. Jane,Ridley Scott,,,125,Action,Drama,War,6.0
+1268,"1,269",Project Power,Henry Joost,Ariel Schulman,,113,Action,Crime,Sci-Fi,6.0
+1269,"1,270",Taken 3,Olivier Megaton,,,108,Action,Crime,Thriller,6.0
+1270,"1,271",CHIPS,Dax Shepard,,,100,Action,Comedy,Crime,6.0
+1271,"1,272",Sahara,Breck Eisner,,,124,Action,Adventure,Comedy,6.0
+1272,"1,273",Beneath the Planet of the Apes,Ted Post,,,95,Action,Adventure,Sci-Fi,6.0
+1273,"1,274",Teenage Mutant Ninja Turtles II: The Secret of the Ooze,Michael Pressman,,,88,Action,Adventure,Comedy,6.0
+1274,"1,275",Cowboys & Aliens,Jon Favreau,,,119,Action,Drama,Sci-Fi,6.0
+1275,"1,276",Above the Law,Andrew Davis,,,99,Action,Crime,Drama,6.0
+1276,"1,277",Honest Thief,Mark Williams,,,99,Action,Thriller,,6.0
+1277,"1,278",The Net,Irwin Winkler,,,114,Action,Crime,Drama,6.0
+1278,"1,279",Captive State,Rupert Wyatt,,,109,Action,Horror,Sci-Fi,6.0
+1279,"1,280",The Purge: Election Year,James DeMonaco,,,108,Action,Horror,Sci-Fi,6.0
+1280,"1,281",Transporter 3,Olivier Megaton,,,104,Action,Adventure,Thriller,6.0
+1281,"1,282",The Lego Ninjago Movie,Charlie Bean,Paul Fisher,Bob Logan,101,Animation,Action,Adventure,6.0
+1282,"1,283",Shaft,John Singleton,,,99,Action,Crime,Thriller,6.0
+1283,"1,284",The Shadow,Russell Mulcahy,,,108,Action,Adventure,Crime,6.0
+1284,"1,285",The Spy Who Dumped Me,Susanna Fogel,,,117,Action,Adventure,Comedy,6.0
+1285,"1,286",First Knight,Jerry Zucker,,,134,Action,Adventure,Drama,6.0
+1286,"1,287",A Man Apart,F. Gary Gray,,,109,Action,Crime,Drama,6.0
+1287,"1,288",Valhalla Rising,Nicolas Winding Refn,,,93,Action,Adventure,Drama,6.0
+1288,"1,289",Soldier,Paul W.S. Anderson,,,99,Action,Drama,Sci-Fi,6.0
+1289,"1,290",The Hunted,William Friedkin,,,94,Action,Crime,Drama,6.0
+1290,"1,291",Jimmy Neutron: Boy Genius,John A. Davis,,,82,Animation,Action,Adventure,6.0
+1291,"1,292",Erased,Philipp Stölzl,,,100,Action,Thriller,,6.0
+1292,"1,293",The Peacemaker,Mimi Leder,,,124,Action,Thriller,,6.0
+1293,"1,294",Varisu,Vamshi Paidipally,,,169,Action,Drama,,6.0
+1294,"1,295",Firestarter,Mark L. Lester,,,114,Action,Horror,Sci-Fi,6.0
+1295,"1,296",Lockout,James Mather,Steve Saint Leger,,95,Action,Sci-Fi,Thriller,6.0
+1296,"1,297",Carriers,David Pastor,Àlex Pastor,,84,Action,Adventure,Drama,6.0
+1297,"1,298",Automata,Gabe Ibáñez,,,109,Action,Drama,Sci-Fi,6.0
+1298,"1,299",Bird on a Wire,John Badham,,,110,Action,Comedy,,6.0
+1299,"1,300",The Code,Mimi Leder,,,104,Action,Crime,Thriller,6.0
+1300,"1,301",Wrongfully Accused,Pat Proft,,,87,Action,Comedy,Thriller,6.0
+1301,"1,302",The Big Hit,Kirk Wong,,,91,Action,Comedy,Crime,6.0
+1302,"1,303",The Condemned,Scott Wiper,,,113,Action,Crime,Thriller,6.0
+1303,"1,304",Man of Tai Chi,Keanu Reeves,,,105,Action,Drama,,6.0
+1304,"1,305",The Machine,Caradog W. James,,,91,Action,Drama,Sci-Fi,6.0
+1305,"1,306",K-9,Rod Daniel,,,101,Action,Comedy,Crime,6.0
+1306,"1,307",The Tournament,Scott Mann,,,95,Action,Thriller,,6.0
+1307,"1,308",Kick,Sajid Nadiadwala,,,146,Action,Comedy,Crime,6.0
+1308,"1,309",2 Fast 2 Furious,John Singleton,,,107,Action,Crime,Thriller,5.9
+1309,"1,310",Suicide Squad,David Ayer,,,123,Action,Adventure,Fantasy,5.9
+1310,"1,311",The Great Wall,Yimou Zhang,,,103,Action,Adventure,Fantasy,5.9
+1311,"1,312",Venom: Let There Be Carnage,Andy Serkis,,,97,Action,Sci-Fi,Thriller,5.9
+1312,"1,313",Transformers: Revenge of the Fallen,Michael Bay,,,149,Action,Adventure,Sci-Fi,5.9
+1313,"1,314",Conan the Destroyer,Richard Fleischer,,,103,Action,Adventure,Fantasy,5.9
+1314,"1,315",Deep Blue Sea,Renny Harlin,,,105,Action,Adventure,Sci-Fi,5.9
+1315,"1,316",Underwater,William Eubank,,,95,Action,Horror,Sci-Fi,5.9
+1316,"1,317",The Brothers Grimm,Terry Gilliam,,,118,Action,Adventure,Comedy,5.9
+1317,"1,318",Teenage Mutant Ninja Turtles: Out of the Shadows,Dave Green,,,112,Action,Adventure,Comedy,5.9
+1318,"1,319",Jurassic Park III,Joe Johnston,,,92,Action,Adventure,Sci-Fi,5.9
+1319,"1,320",Punisher: War Zone,Lexi Alexander,,,103,Action,Crime,Drama,5.9
+1320,"1,321",Power Rangers,Dean Israelite,,,124,Action,Adventure,Fantasy,5.9
+1321,"1,322",Pathaan,Siddharth Anand,,,146,Action,Adventure,Thriller,5.9
+1322,"1,323",The Last Witch Hunter,Breck Eisner,,,106,Action,Adventure,Fantasy,5.9
+1323,"1,324",Into the Blue,John Stockwell,,,110,Action,Adventure,Crime,5.9
+1324,"1,325",London Has Fallen,Babak Najafi,,,99,Action,Thriller,,5.9
+1325,"1,326",The Wandering Earth,Frant Gwo,,,125,Action,Adventure,Sci-Fi,5.9
+1326,"1,327",Six Days Seven Nights,Ivan Reitman,,,102,Action,Adventure,Comedy,5.9
+1327,"1,328",Iron Sky,Timo Vuorensola,,,93,Action,Adventure,Comedy,5.9
+1328,"1,329",Abraham Lincoln: Vampire Hunter,Timur Bekmambetov,,,105,Action,Fantasy,Horror,5.9
+1329,"1,330",The 6th Day,Roger Spottiswoode,,,123,Action,Mystery,Sci-Fi,5.9
+1330,"1,331",The Black Hole,Gary Nelson,,,98,Action,Sci-Fi,,5.9
+1331,"1,332",The Rookie,Clint Eastwood,,,120,Action,Crime,Drama,5.9
+1332,"1,333",Vertical Limit,Martin Campbell,,,124,Action,Adventure,Drama,5.9
+1333,"1,334",Doomsday,Neil Marshall,,,105,Action,Sci-Fi,Thriller,5.9
+1334,"1,335",Passenger 57,Kevin Hooks,,,84,Action,Crime,Thriller,5.9
+1335,"1,336",Keeping Up with the Joneses,Greg Mottola,,,105,Action,Comedy,,5.9
+1336,"1,337",Star Wars: The Clone Wars,Dave Filoni,,,98,Animation,Action,Adventure,5.9
+1337,"1,338",Sanctum,Alister Grierson,,,108,Action,Adventure,Drama,5.9
+1338,"1,339",The Legend of Zorro,Martin Campbell,,,129,Action,Adventure,Romance,5.9
+1339,"1,340",Domino,Tony Scott,,,127,Action,Biography,Crime,5.9
+1340,"1,341",Firefox,Clint Eastwood,,,136,Action,Adventure,Thriller,5.9
+1341,"1,342",Braven,Lin Oeding,,,94,Action,Thriller,,5.9
+1342,"1,343",The One,James Wong,,,87,Action,Sci-Fi,Thriller,5.9
+1343,"1,344",Daylight,Rob Cohen,,,114,Action,Adventure,Drama,5.9
+1344,"1,345",The Golden Child,Michael Ritchie,,,94,Action,Adventure,Comedy,5.9
+1345,"1,346",Red Tails,Anthony Hemingway,,,125,Action,Drama,History,5.9
+1346,"1,347",The Fan,Tony Scott,,,116,Action,Drama,Sport,5.9
+1347,"1,348",Timecop,Peter Hyams,,,99,Action,Crime,Sci-Fi,5.9
+1348,"1,349",Fatman,Eshom Nelms,Ian Nelms,,100,Action,Adventure,Comedy,5.9
+1349,"1,350",Undercover Brother,Malcolm D. Lee,,,86,Action,Comedy,,5.9
+1350,"1,351",Gone,Heitor Dhalia,,,94,Action,Adventure,Mystery,5.9
+1351,"1,352",Kidnap,Luis Prieto,,,95,Action,Crime,Thriller,5.9
+1352,"1,353",Another 48 Hrs.,Walter Hill,,,95,Action,Comedy,Crime,5.9
+1353,"1,354",3000 Miles to Graceland,Demian Lichtenstein,,,125,Action,Comedy,Crime,5.9
+1354,"1,355",Ride Along 2,Tim Story,,,102,Action,Comedy,Crime,5.9
+1355,"1,356",Fortress,Stuart Gordon,,,95,Action,Crime,Sci-Fi,5.9
+1356,"1,357",Hard Rain,Mikael Salomon,,,97,Action,Crime,Drama,5.9
+1357,"1,358",Men at Work,Emilio Estevez,,,98,Action,Comedy,Crime,5.9
+1358,"1,359",The Double,Michael Brandt,,,98,Action,Crime,Drama,5.9
+1359,"1,360",Tiger Lives,Mehmet Tutkun,Ali Abbas Zafar,Musa Muhammed Olayinka,161,Action,Adventure,Thriller,5.9
+1360,"1,361",Ghosted,Dexter Fletcher,,,116,Action,Adventure,Comedy,5.8
+1361,"1,362",Mulan,Niki Caro,,,115,Action,Adventure,Drama,5.8
+1362,"1,363",The School for Good and Evil,Paul Feig,,,147,Action,Comedy,Drama,5.8
+1363,"1,364",Oldboy,Spike Lee,,,104,Action,Drama,Mystery,5.8
+1364,"1,365",Teenage Mutant Ninja Turtles,Jonathan Liebesman,,,101,Action,Adventure,Comedy,5.8
+1365,"1,366",Army of the Dead,Zack Snyder,,,148,Action,Crime,Drama,5.8
+1366,"1,367",Battleship,Peter Berg,,,131,Action,Adventure,Sci-Fi,5.8
+1367,"1,368",Noah,Darren Aronofsky,,,138,Action,Adventure,Drama,5.8
+1368,"1,369",2012,Roland Emmerich,,,158,Action,Adventure,Sci-Fi,5.8
+1369,"1,370",Clash of the Titans,Louis Leterrier,,,106,Action,Adventure,Fantasy,5.8
+1370,"1,371",Mortal Kombat,Paul W.S. Anderson,,,101,Action,Adventure,Fantasy,5.8
+1371,"1,372",Species,Roger Donaldson,,,108,Action,Horror,Sci-Fi,5.8
+1372,"1,373",The Man from Toronto,Patrick Hughes,,,110,Action,Adventure,Comedy,5.8
+1373,"1,374",The League of Extraordinary Gentlemen,Stephen Norrington,,,110,Action,Adventure,Fantasy,5.8
+1374,"1,375",xXx,Rob Cohen,,,124,Action,Adventure,Thriller,5.8
+1375,"1,376",End of Days,Peter Hyams,,,122,Action,Fantasy,Horror,5.8
+1376,"1,377",Cobra,George P. Cosmatos,,,87,Action,Crime,Thriller,5.8
+1377,"1,378",Troll,Roar Uthaug,,,101,Action,Adventure,Drama,5.8
+1378,"1,379",Blade: Trinity,David S. Goyer,,,113,Action,Horror,Sci-Fi,5.8
+1379,"1,380",Hollow Man,Paul Verhoeven,,,112,Action,Horror,Sci-Fi,5.8
+1380,"1,381",Journey to the Center of the Earth,Eric Brevig,,,93,Action,Adventure,Family,5.8
+1381,"1,382",Over the Top,Menahem Golan,,,93,Action,Drama,Sport,5.8
+1382,"1,383",RoboCop 2,Irvin Kershner,,,117,Action,Crime,Sci-Fi,5.8
+1383,"1,384",Without Remorse,Stefano Sollima,,,109,Action,Thriller,War,5.8
+1384,"1,385",Haywire,Steven Soderbergh,,,93,Action,Drama,Thriller,5.8
+1385,"1,386",Lake Placid,Steve Miner,,,82,Action,Comedy,Horror,5.8
+1386,"1,387",The Mortal Instruments: City of Bones,Harald Zwart,,,130,Action,Adventure,Fantasy,5.8
+1387,"1,388",Pride and Prejudice and Zombies,Burr Steers,,,108,Action,Comedy,Fantasy,5.8
+1388,"1,389",Extinction,Ben Young,,,95,Action,Drama,Sci-Fi,5.8
+1389,"1,390",Wild Hogs,Walt Becker,,,100,Action,Adventure,Comedy,5.8
+1390,"1,391",Rambo III,Peter MacDonald,,,102,Action,Adventure,Thriller,5.8
+1391,"1,392",Morgan,Luke Scott,,,92,Action,Horror,Sci-Fi,5.8
+1392,"1,393",The Host,Andrew Niccol,,,125,Action,Adventure,Drama,5.8
+1393,"1,394",Straw Dogs,Rod Lurie,,,110,Action,Drama,Thriller,5.8
+1394,"1,395",1941,Steven Spielberg,,,118,Action,Comedy,War,5.8
+1395,"1,396",Resident Evil: Afterlife,Paul W.S. Anderson,,,96,Action,Horror,Sci-Fi,5.8
+1396,"1,397",Skyscraper,Rawson Marshall Thurber,,,102,Action,Adventure,Thriller,5.8
+1397,"1,398",Into the Storm,Steven Quale,,,89,Action,Adventure,Drama,5.8
+1398,"1,399",Around the World in 80 Days,Frank Coraci,,,120,Action,Adventure,Comedy,5.8
+1399,"1,400",The Green Hornet,Michel Gondry,,,119,Action,Comedy,Crime,5.8
+1400,"1,401",Hard to Kill,Bruce Malmuth,,,96,Action,Crime,Drama,5.8
+1401,"1,402",The Gunman,Pierre Morel,,,115,Action,Adventure,Crime,5.8
+1402,"1,403",Striking Distance,Rowdy Herrington,,,102,Action,Crime,Mystery,5.8
+1403,"1,404",Cirque du Freak: The Vampire's Assistant,Paul Weitz,,,109,Action,Adventure,Fantasy,5.8
+1404,"1,405",Reindeer Games,John Frankenheimer,,,104,Action,Adventure,Crime,5.8
+1405,"1,406",Air America,Roger Spottiswoode,,,113,Action,Comedy,War,5.8
+1406,"1,407",Sudden Death,Peter Hyams,,,111,Action,Crime,Thriller,5.8
+1407,"1,408",Bulletproof,Ernest R. Dickerson,,,84,Action,Comedy,Crime,5.8
+1408,"1,409",Cradle 2 the Grave,Andrzej Bartkowiak,,,101,Action,Crime,Drama,5.8
+1409,"1,410",Firewall,Richard Loncraine,,,105,Action,Crime,Thriller,5.8
+1410,"1,411",Taxi 3,Gérard Krawczyk,,,84,Action,Comedy,Crime,5.8
+1411,"1,412",Samrat Prithviraj,Chandra Prakash Dwivedi,,,135,Action,Drama,History,5.8
+1412,"1,413",Murder Mystery 2,Jeremy Garelick,,,90,Action,Comedy,Crime,5.7
+1413,"1,414",The Matrix Resurrections,Lana Wachowski,,,148,Action,Sci-Fi,,5.7
+1414,"1,415",Strange World,Don Hall,Qui Nguyen,,102,Animation,Action,Adventure,5.7
+1415,"1,416",Memory,Martin Campbell,,,114,Action,Crime,Thriller,5.7
+1416,"1,417",Chaos Walking,Doug Liman,,,109,Action,Adventure,Fantasy,5.7
+1417,"1,418",The Three Musketeers,Paul W.S. Anderson,,,110,Action,Adventure,Fantasy,5.7
+1418,"1,419",Escape Room: Tournament of Champions,Adam Robitel,,,88,Action,Adventure,Horror,5.7
+1419,"1,420",Mechanic: Resurrection,Dennis Gansel,,,98,Action,Adventure,Crime,5.7
+1420,"1,421",Planet of the Apes,Tim Burton,,,119,Action,Adventure,Sci-Fi,5.7
+1421,"1,422",X-Men: Dark Phoenix,Simon Kinberg,,,113,Action,Adventure,Sci-Fi,5.7
+1422,"1,423",G.I. Joe: The Rise of Cobra,Stephen Sommers,,,118,Action,Adventure,Sci-Fi,5.7
+1423,"1,424",Fantastic Four,Tim Story,,,106,Action,Adventure,Fantasy,5.7
+1424,"1,425",Bloodshot,Dave Wilson,,,109,Action,Adventure,Sci-Fi,5.7
+1425,"1,426",G.I. Joe: Retaliation,Jon M. Chu,,,110,Action,Adventure,Sci-Fi,5.7
+1426,"1,427",Samaritan,Julius Avery,,,102,Action,Drama,Fantasy,5.7
+1427,"1,428",Freddy vs. Jason,Ronny Yu,,,97,Action,Horror,,5.7
+1428,"1,429",Underworld: Blood Wars,Anna Foerster,,,91,Action,Adventure,Fantasy,5.7
+1429,"1,430",Lara Croft: Tomb Raider,Simon West,,,100,Action,Adventure,Fantasy,5.7
+1430,"1,431",Buffy the Vampire Slayer,Fran Rubel Kuzui,,,86,Action,Comedy,Fantasy,5.7
+1431,"1,432",Journey 2: The Mysterious Island,Brad Peyton,,,94,Action,Adventure,Comedy,5.7
+1432,"1,433",Crocodile Dundee II,John Cornell,,,108,Action,Adventure,Comedy,5.7
+1433,"1,434",Allegiant,Robert Schwentke,,,120,Action,Adventure,Mystery,5.7
+1434,"1,435",Pan,Joe Wright,,,111,Action,Adventure,Comedy,5.7
+1435,"1,436",Hitman: Agent 47,Aleksander Bach,,,96,Action,Crime,Thriller,5.7
+1436,"1,437",Only God Forgives,Nicolas Winding Refn,,,90,Action,Crime,Drama,5.7
+1437,"1,438",Fool's Gold,Andy Tennant,,,112,Action,Adventure,Comedy,5.7
+1438,"1,439",The Do-Over,Steven Brill,,,108,Action,Adventure,Comedy,5.7
+1439,"1,440",Poseidon,Wolfgang Petersen,,,98,Action,Adventure,Thriller,5.7
+1440,"1,441",Wrath of the Titans,Jonathan Liebesman,,,99,Action,Adventure,Fantasy,5.7
+1441,"1,442",Cooties,Jonathan Milott,Cary Murnion,,88,Action,Comedy,Horror,5.7
+1442,"1,443",Escape from L.A.,John Carpenter,,,101,Action,Adventure,Sci-Fi,5.7
+1443,"1,444",The Darkest Minds,Jennifer Yuh Nelson,,,104,Action,Adventure,Drama,5.7
+1444,"1,445",Gamer,Mark Neveldine,Brian Taylor,,95,Action,Sci-Fi,Thriller,5.7
+1445,"1,446",Ben-Hur,Timur Bekmambetov,,,123,Action,Drama,Romance,5.7
+1446,"1,447",Priest,Scott Stewart,,,87,Action,Fantasy,Horror,5.7
+1447,"1,448",Gemini Man,Ang Lee,,,117,Action,Sci-Fi,Thriller,5.7
+1448,"1,449",Cutthroat Island,Renny Harlin,,,124,Action,Adventure,Comedy,5.7
+1449,"1,450",Battle Los Angeles,Jonathan Liebesman,,,116,Action,Adventure,Sci-Fi,5.7
+1450,"1,451",The Marksman,Robert Lorenz,,,108,Action,Drama,Thriller,5.7
+1451,"1,452",Race to Witch Mountain,Andy Fickman,,,98,Action,Adventure,Family,5.7
+1452,"1,453",Sabotage,David Ayer,,,109,Action,Crime,Drama,5.7
+1453,"1,454",Mighty Joe Young,Ron Underwood,,,114,Action,Adventure,Family,5.7
+1454,"1,455",Beckett,Ferdinando Cito Filomarino,,,110,Action,Crime,Drama,5.7
+1455,"1,456",Bullet to the Head,Walter Hill,,,92,Action,Crime,Thriller,5.7
+1456,"1,457",Hudson Hawk,Michael Lehmann,,,100,Action,Adventure,Comedy,5.7
+1457,"1,458",Drillbit Taylor,Steven Brill,,,110,Action,Comedy,Crime,5.7
+1458,"1,459",Red Planet,Antony Hoffman,,,106,Action,Sci-Fi,Thriller,5.7
+1459,"1,460",Close,Vicky Jewson,,,94,Action,Drama,Thriller,5.7
+1460,"1,461",Nowhere to Run,Robert Harmon,,,94,Action,Drama,Romance,5.7
+1461,"1,462",Money Train,Joseph Ruben,,,110,Action,Comedy,Crime,5.7
+1462,"1,463",Bandidas,Joachim Rønning,Espen Sandberg,,93,Action,Comedy,Crime,5.7
+1463,"1,464",The Art of War,Christian Duguay,,,117,Action,Adventure,Crime,5.7
+1464,"1,465",Armored,Nimród Antal,,,88,Action,Crime,Thriller,5.7
+1465,"1,466",The Mother,Niki Caro,,,115,Action,Thriller,,5.6
+1466,"1,467",Jurassic World: Dominion,Colin Trevorrow,,,147,Action,Adventure,Sci-Fi,5.6
+1467,"1,468",The Meg,Jon Turteltaub,,,113,Action,Horror,Sci-Fi,5.6
+1468,"1,469",Transformers: Age of Extinction,Michael Bay,,,165,Action,Adventure,Sci-Fi,5.6
+1469,"1,470",Pixels,Chris Columbus,,,105,Action,Comedy,Fantasy,5.6
+1470,"1,471",Beast,Baltasar Kormákur,,,93,Action,Adventure,Drama,5.6
+1471,"1,472",Last Seen Alive,Brian Goodman,,,95,Action,Mystery,Thriller,5.6
+1472,"1,473",Charlie's Angels,McG,,,98,Action,Adventure,Comedy,5.6
+1473,"1,474",Men in Black: International,F. Gary Gray,,,114,Action,Adventure,Comedy,5.6
+1474,"1,475",Hulk,Ang Lee,,,138,Action,Sci-Fi,,5.6
+1475,"1,476",Alexander,Oliver Stone,,,175,Action,Biography,Drama,5.6
+1476,"1,477",Spy Kids,Robert Rodriguez,,,88,Action,Adventure,Comedy,5.6
+1477,"1,478",Fantastic Four: Rise of the Silver Surfer,Tim Story,,,92,Action,Adventure,Fantasy,5.6
+1478,"1,479",Judge Dredd,Danny Cannon,,,96,Action,Crime,Sci-Fi,5.6
+1479,"1,480",The 355,Simon Kinberg,,,122,Action,Thriller,,5.6
+1480,"1,481",You Don't Mess with the Zohan,Dennis Dugan,,,113,Action,Comedy,,5.6
+1481,"1,482",The Dark Tower,Nikolaj Arcel,,,95,Action,Adventure,Fantasy,5.6
+1482,"1,483",The Pacifier,Adam Shankman,,,95,Action,Comedy,Drama,5.6
+1483,"1,484",Assassin's Creed,Justin Kurzel,,,115,Action,Adventure,Sci-Fi,5.6
+1484,"1,485",Alien vs. Predator,Paul W.S. Anderson,,,101,Action,Adventure,Horror,5.6
+1485,"1,486",Pacific Rim: Uprising,Steven S. DeKnight,,,111,Action,Adventure,Fantasy,5.6
+1486,"1,487",The Specialist,Luis Llosa,,,110,Action,Drama,Thriller,5.6
+1487,"1,488",R.I.P.D.,Robert Schwentke,,,96,Action,Adventure,Comedy,5.6
+1488,"1,489",Johnny Mnemonic,Robert Longo,,,96,Action,Drama,Sci-Fi,5.6
+1489,"1,490",Wild Card,Simon West,,,92,Action,Crime,Drama,5.6
+1490,"1,491",Machete Kills,Robert Rodriguez,,,107,Action,Crime,Thriller,5.6
+1491,"1,492",Jay and Silent Bob Reboot,Kevin Smith,,,105,Action,Adventure,Comedy,5.6
+1492,"1,493",Timeline,Richard Donner,,,116,Action,Adventure,Sci-Fi,5.6
+1493,"1,494",Jolt,Tanya Wexler,,,91,Action,Comedy,Crime,5.6
+1494,"1,495",The Ice Road,Jonathan Hensleigh,,,109,Action,Adventure,Thriller,5.6
+1495,"1,496",Brahmastra Part One: Shiva,Ayan Mukerji,,,167,Action,Adventure,Fantasy,5.6
+1496,"1,497",Raw Deal,John Irvin,,,106,Action,Crime,Thriller,5.6
+1497,"1,498",Double Impact,Sheldon Lettich,,,110,Action,Crime,,5.6
+1498,"1,499",Hold the Dark,Jeremy Saulnier,,,125,Action,Crime,Drama,5.6
+1499,"1,500",Chain Reaction,Andrew Davis,,,107,Action,Drama,Sci-Fi,5.6
+1500,"1,501",National Security,Dennis Dugan,,,88,Action,Comedy,Crime,5.6
+1501,"1,502",MacGruber,Jorma Taccone,,,90,Action,Comedy,,5.6
+1502,"1,503",Brick Mansions,Camille Delamarre,,,90,Action,Crime,Thriller,5.6
+1503,"1,504",The Skulls,Rob Cohen,,,106,Action,Crime,Drama,5.6
+1504,"1,505",The Pink Panther 2,Harald Zwart,,,92,Action,Adventure,Comedy,5.6
+1505,"1,506",The Contract,Bruce Beresford,,,96,Action,Crime,Drama,5.6
+1506,"1,507",Survivor,James McTeigue,,,96,Action,Crime,Thriller,5.6
+1507,"1,508",The Quest,Jean-Claude Van Damme,,,95,Action,Adventure,Drama,5.6
+1508,"1,509",Exit Wounds,Andrzej Bartkowiak,,,101,Action,Crime,Thriller,5.6
+1509,"1,510",Fire with Fire,David Barrett,,,97,Action,Thriller,,5.6
+1510,"1,511",Bad Company,Joel Schumacher,,,116,Action,Comedy,Thriller,5.6
+1511,"1,512",12 Rounds,Renny Harlin,,,108,Action,Crime,Thriller,5.6
+1512,"1,513",Sleepless,Baran bo Odar,,,95,Action,Thriller,,5.6
+1513,"1,514",Metro,Thomas Carter,,,117,Action,Comedy,Crime,5.6
+1514,"1,515",Bang Bang,Siddharth Anand,,,153,Action,Adventure,Comedy,5.6
+1515,"1,516",Once There Was a Tiger,Mathur Goswami,Kabir Khan,,132,Action,Adventure,Romance,5.6
+1516,"1,517",Baywatch,Seth Gordon,,,116,Action,Comedy,Crime,5.5
+1517,"1,518",Shotgun Wedding,Jason Moore,,,101,Action,Comedy,Romance,5.5
+1518,"1,519",Infinite,Antoine Fuqua,,,106,Action,Sci-Fi,Thriller,5.5
+1519,"1,520",Willy's Wonderland,Kevin Lewis,,,88,Action,Comedy,Horror,5.5
+1520,"1,521",Spiderhead,Joseph Kosinski,,,106,Action,Crime,Drama,5.5
+1521,"1,522",The Core,Jon Amiel,,,135,Action,Adventure,Sci-Fi,5.5
+1522,"1,523",George of the Jungle,Sam Weisman,,,92,Action,Adventure,Comedy,5.5
+1523,"1,524",Green Lantern,Martin Campbell,,,114,Action,Adventure,Sci-Fi,5.5
+1524,"1,525",The Cloverfield Paradox,Julius Onah,,,102,Action,Adventure,Horror,5.5
+1525,"1,526",The Scorpion King,Chuck Russell,,,92,Action,Adventure,Fantasy,5.5
+1526,"1,527",Sweet Girl,Brian Andrew Mendoza,,,110,Action,Drama,Thriller,5.5
+1527,"1,528",Snakes on a Plane,David R. Ellis,,,105,Action,Adventure,Crime,5.5
+1528,"1,529",Pompeii,Paul W.S. Anderson,,,105,Action,Adventure,Drama,5.5
+1529,"1,530",Resident Evil: The Final Chapter,Paul W.S. Anderson,,,107,Action,Horror,Sci-Fi,5.5
+1530,"1,531",Virtuosity,Brett Leonard,,,106,Action,Crime,Sci-Fi,5.5
+1531,"1,532",Seventh Son,Sergei Bodrov,,,102,Action,Adventure,Fantasy,5.5
+1532,"1,533",Your Highness,David Gordon Green,,,102,Action,Adventure,Comedy,5.5
+1533,"1,534",Volcano,Mick Jackson,,,104,Action,Drama,Sci-Fi,5.5
+1534,"1,535",Mortdecai,David Koepp,,,107,Action,Adventure,Comedy,5.5
+1535,"1,536",Eight Legged Freaks,Ellory Elkayem,,,99,Action,Adventure,Comedy,5.5
+1536,"1,537",Lara Croft: Tomb Raider - The Cradle of Life,Jan de Bont,,,117,Action,Adventure,Fantasy,5.5
+1537,"1,538",Peninsula,Sang-ho Yeon,,,116,Action,Horror,Thriller,5.5
+1538,"1,539",Star Trek V: The Final Frontier,William Shatner,,,107,Action,Adventure,Fantasy,5.5
+1539,"1,540",Under Siege 2: Dark Territory,Geoff Murphy,,,100,Action,Adventure,Thriller,5.5
+1540,"1,541",Beverly Hills Cop III,John Landis,,,104,Action,Comedy,Crime,5.5
+1541,"1,542",The Bounty Hunter,Andy Tennant,,,110,Action,Comedy,Romance,5.5
+1542,"1,543",The Happytime Murders,Brian Henson,,,91,Action,Comedy,Crime,5.5
+1543,"1,544",Collateral Damage,Andrew Davis,,,108,Action,Drama,Thriller,5.5
+1544,"1,545",Stolen,Simon West,,,96,Action,Crime,Thriller,5.5
+1545,"1,546",Beverly Hills Ninja,Dennis Dugan,,,88,Action,Comedy,,5.5
+1546,"1,547",Babylon A.D.,Mathieu Kassovitz,,,90,Action,Adventure,Sci-Fi,5.5
+1547,"1,548",Cop Out,Kevin Smith,,,107,Action,Comedy,Crime,5.5
+1548,"1,549",Fighting,Dito Montiel,,,105,Action,Crime,Drama,5.5
+1549,"1,550",Whiteout,Dominic Sena,,,101,Action,Crime,Mystery,5.5
+1550,"1,551",The Man,Les Mayfield,,,83,Action,Comedy,Crime,5.5
+1551,"1,552",Showtime,Tom Dey,,,95,Action,Comedy,Crime,5.5
+1552,"1,553",Taxi 4,Gérard Krawczyk,,,91,Action,Comedy,Crime,5.5
+1553,"1,554",Gunjan Saxena: The Kargil Girl,ALi Khan AK,Sharan Sharma,,112,Action,Biography,Drama,5.5
+1554,"1,555",65,Scott Beck,Bryan Woods,,93,Action,Adventure,Drama,5.4
+1555,"1,556",Wonder Woman 1984,Patty Jenkins,,,151,Action,Adventure,Fantasy,5.4
+1556,"1,557",Gods of Egypt,Alex Proyas,,,127,Action,Adventure,Drama,5.4
+1557,"1,558",The Mummy,Alex Kurtzman,,,110,Action,Adventure,Fantasy,5.4
+1558,"1,559",Batman Forever,Joel Schumacher,,,121,Action,Adventure,,5.4
+1559,"1,560",The Forever Purge,Everardo Gout,,,103,Action,Crime,Horror,5.4
+1560,"1,561",Ava,Tate Taylor,,,96,Action,Drama,Thriller,5.4
+1561,"1,562",Snake Eyes,Robert Schwentke,,,121,Action,Adventure,Crime,5.4
+1562,"1,563",Godzilla,Roland Emmerich,,,139,Action,Sci-Fi,Thriller,5.4
+1563,"1,564",Maximum Overdrive,Stephen King,,,98,Action,Comedy,Horror,5.4
+1564,"1,565",Drive Angry,Patrick Lussier,,,104,Action,Comedy,Fantasy,5.4
+1565,"1,566",Æon Flux,Karyn Kusama,,,93,Action,Adventure,Sci-Fi,5.4
+1566,"1,567",Vampire Academy,Mark Waters,,,104,Action,Comedy,Drama,5.4
+1567,"1,568",Big Game,Jalmari Helander,,,110,Action,Adventure,Comedy,5.4
+1568,"1,569","Game Over, Man!",Kyle Newacheck,,,101,Action,Comedy,,5.4
+1569,"1,570",Killers,Robert Luketic,,,100,Action,Comedy,Romance,5.4
+1570,"1,571",Blackhat,Michael Mann,,,133,Action,Crime,Thriller,5.4
+1571,"1,572",Outside the Wire,Mikael Håfström,,,114,Action,Adventure,Fantasy,5.4
+1572,"1,573",Season of the Witch,Dominic Sena,,,95,Action,Adventure,Fantasy,5.4
+1573,"1,574",The Tuxedo,Kevin Donovan,,,98,Action,Comedy,Sci-Fi,5.4
+1574,"1,575",The Spy Next Door,Brian Levant,,,94,Action,Comedy,Family,5.4
+1575,"1,576",D3: The Mighty Ducks,Robert Lieberman,,,104,Action,Comedy,Drama,5.4
+1576,"1,577",The Last Legion,Doug Lefler,,,101,Action,Adventure,History,5.4
+1577,"1,578",The Man with the Iron Fists,RZA,,,95,Action,,,5.4
+1578,"1,579",Pathfinder,Marcus Nispel,,,99,Action,Adventure,Drama,5.4
+1579,"1,580",Battle for the Planet of the Apes,J. Lee Thompson,,,93,Action,Sci-Fi,,5.4
+1580,"1,581",Killing Season,Mark Steven Johnson,,,91,Action,Drama,Thriller,5.4
+1581,"1,582",Bulletproof Monk,Paul Hunter,,,104,Action,Comedy,Fantasy,5.4
+1582,"1,583",I Spy,Betty Thomas,,,97,Action,Adventure,Comedy,5.4
+1583,"1,584",Dhoom 3,Vijay Krishna Acharya,,,172,Action,Crime,Drama,5.4
+1584,"1,585",Masters of the Universe,Gary Goddard,,,106,Action,Adventure,Fantasy,5.3
+1585,"1,586",Geostorm,Dean Devlin,,,109,Action,Sci-Fi,Thriller,5.3
+1586,"1,587",The Predator,Shane Black,,,107,Action,Adventure,Horror,5.3
+1587,"1,588",The New Mutants,Josh Boone,,,94,Action,Horror,Mystery,5.3
+1588,"1,589",Point Break,Ericson Core,,,114,Action,Adventure,Crime,5.3
+1589,"1,590",Ghost Rider,Mark Steven Johnson,,,110,Action,Fantasy,Thriller,5.3
+1590,"1,591",Jupiter Ascending,Lana Wachowski,Lilly Wachowski,,127,Action,Adventure,Sci-Fi,5.3
+1591,"1,592",Daredevil,Mark Steven Johnson,,,103,Action,Crime,,5.3
+1592,"1,593",Tank Girl,Rachel Talalay,,,104,Action,Comedy,Sci-Fi,5.3
+1593,"1,594",Robin Hood,Otto Bathurst,,,116,Action,Adventure,Drama,5.3
+1594,"1,595",Congo,Frank Marshall,,,109,Action,Adventure,Mystery,5.3
+1595,"1,596",Resident Evil: Retribution,Paul W.S. Anderson,,,95,Action,Horror,Sci-Fi,5.3
+1596,"1,597",Red Dawn,Dan Bradley,,,93,Action,Drama,,5.3
+1597,"1,598",The Karate Kid Part III,John G. Avildsen,,,112,Action,Drama,Family,5.3
+1598,"1,599",Land of the Lost,Brad Silberling,,,102,Action,Adventure,Comedy,5.3
+1599,"1,600",Max Payne,John Moore,,,100,Action,Crime,Drama,5.3
+1600,"1,601",Spy Kids 2: Island of Lost Dreams,Robert Rodriguez,,,100,Action,Adventure,Comedy,5.3
+1601,"1,602",One for the Money,Julie Anne Robinson,,,91,Action,Comedy,Crime,5.3
+1602,"1,603",Spy Hard,Rick Friedberg,,,81,Action,Comedy,,5.3
+1603,"1,604",The Colony,Jeff Renfroe,,,95,Action,Horror,Sci-Fi,5.3
+1604,"1,605",Hollywood Homicide,Ron Shelton,,,116,Action,Comedy,Crime,5.3
+1605,"1,606",Bangkok Dangerous,Danny Pang,Oxide Chun Pang,,99,Action,Crime,Thriller,5.3
+1606,"1,607",Universal Soldier: Regeneration,John Hyams,,,97,Action,Adventure,Sci-Fi,5.3
+1607,"1,608",The Way to Paradise,Enzo Zelocchi,,,85,Action,Comedy,Thriller,5.3
+1608,"1,609",F9: The Fast Saga,Justin Lin,,,143,Action,Crime,Thriller,5.2
+1609,"1,610",Transformers: The Last Knight,Michael Bay,,,154,Action,Adventure,Sci-Fi,5.2
+1610,"1,611",Morbius,Daniel Espinosa,,,104,Action,Adventure,Horror,5.2
+1611,"1,612",The Covenant,Renny Harlin,,,97,Action,Adventure,Fantasy,5.2
+1612,"1,613",Resident Evil: Welcome to Raccoon City,Johannes Roberts,,,107,Action,Horror,Sci-Fi,5.2
+1613,"1,614",Hellboy,Neil Marshall,,,120,Action,Adventure,Fantasy,5.2
+1614,"1,615",Legion,Scott Stewart,,,100,Action,Fantasy,Horror,5.2
+1615,"1,616",The Mummy: Tomb of the Dragon Emperor,Rob Cohen,,,112,Action,Adventure,Fantasy,5.2
+1616,"1,617",xXx: Return of Xander Cage,D.J. Caruso,,,107,Action,Adventure,Thriller,5.2
+1617,"1,618",Spawn,Mark A.Z. Dippé,,,96,Action,Drama,Horror,5.2
+1618,"1,619",The 5th Wave,J Blakeson,,,112,Action,Adventure,Sci-Fi,5.2
+1619,"1,620",Mighty Morphin Power Rangers,Bryan Spicer,,,95,Action,Adventure,Family,5.2
+1620,"1,621",Independence Day: Resurgence,Roland Emmerich,,,120,Action,Adventure,Sci-Fi,5.2
+1621,"1,622",Monster Hunter,Paul W.S. Anderson,,,103,Action,Adventure,Fantasy,5.2
+1622,"1,623",The Bad Batch,Ana Lily Amirpour,,,118,Action,Horror,Mystery,5.2
+1623,"1,624",Paul Blart: Mall Cop,Steve Carr,,,91,Action,Comedy,Crime,5.2
+1624,"1,625",Doom,Andrzej Bartkowiak,,,105,Action,Horror,Sci-Fi,5.2
+1625,"1,626",Lost in Space,Stephen Hopkins,,,130,Action,Adventure,Family,5.2
+1626,"1,627",Big Momma's House,Raja Gosnell,,,99,Action,Comedy,Crime,5.2
+1627,"1,628",A Good Day to Die Hard,John Moore,,,98,Action,Thriller,,5.2
+1628,"1,629",The First Purge,Gerard McMurray,,,97,Action,Horror,Sci-Fi,5.2
+1629,"1,630",The Transporter Refueled,Camille Delamarre,,,96,Action,Thriller,,5.2
+1630,"1,631",The Medallion,Gordon Chan,,,88,Action,Comedy,Fantasy,5.2
+1631,"1,632",Alex Cross,Rob Cohen,,,101,Action,Crime,Mystery,5.2
+1632,"1,633",Mutant Chronicles,Simon Hunter,,,111,Action,Adventure,Mystery,5.2
+1633,"1,634",Beast,Nelson Dilipkumar,,,155,Action,Thriller,,5.2
+1634,"1,635",Bachchhan Paandey,Farhad Samji,,,147,Action,Comedy,Crime,5.2
+1635,"1,636",Moonfall,Roland Emmerich,,,130,Action,Adventure,Sci-Fi,5.1
+1636,"1,637",Conan the Barbarian,Marcus Nispel,,,113,Action,Adventure,Fantasy,5.1
+1637,"1,638",Red Sonja,Richard Fleischer,,,89,Action,Adventure,Fantasy,5.1
+1638,"1,639",Eragon,Stefen Fangmeier,,,104,Action,Adventure,Family,5.1
+1639,"1,640","I, Frankenstein",Stuart Beattie,,,92,Action,Fantasy,Sci-Fi,5.1
+1640,"1,641","10,000 BC",Roland Emmerich,,,109,Action,Adventure,Drama,5.1
+1641,"1,642",Stealth,Rob Cohen,,,121,Action,Adventure,Sci-Fi,5.1
+1642,"1,643",Agent Cody Banks,Harald Zwart,,,102,Action,Adventure,Comedy,5.1
+1643,"1,644",Abduction,John Singleton,,,106,Action,Mystery,Thriller,5.1
+1644,"1,645",Miss Congeniality 2: Armed & Fabulous,John Pasquin,,,115,Action,Comedy,Crime,5.1
+1645,"1,646",G-Force,Hoyt Yeatman,,,88,Animation,Action,Adventure,5.1
+1646,"1,647",Cats & Dogs,Lawrence Guterman,,,87,Action,Adventure,Comedy,5.1
+1647,"1,648",Hot Pursuit,Anne Fletcher,,,87,Action,Comedy,Crime,5.1
+1648,"1,649",Stormbreaker,Geoffrey Sax,,,93,Action,Adventure,Family,5.1
+1649,"1,650",Get Carter,Stephen Kay,,,102,Action,Crime,Drama,5.1
+1650,"1,651",Charlie's Angels,Elizabeth Banks,,,118,Action,Adventure,Comedy,5.0
+1651,"1,652",The Twilight Saga: Eclipse,David Slade,,,124,Action,Adventure,Drama,5.0
+1652,"1,653",Shadow in the Cloud,Roseanne Liang,,,83,Action,Horror,War,5.0
+1653,"1,654",How It Ends,David M. Rosenthal,,,113,Action,Drama,Horror,5.0
+1654,"1,655",Superman III,Richard Lester,,,125,Action,Adventure,Comedy,5.0
+1655,"1,656",Cyborg,Albert Pyun,,,86,Action,Sci-Fi,Thriller,5.0
+1656,"1,657",The Phantom,Simon Wincer,,,100,Action,Adventure,Comedy,5.0
+1657,"1,658",Virus,John Bruno,,,99,Action,Horror,Sci-Fi,5.0
+1658,"1,659",See No Evil,Gregory Dark,,,84,Action,Horror,Thriller,5.0
+1659,"1,660",Dilwale,Rohit Shetty,,,158,Action,Comedy,Drama,5.0
+1660,"1,661",Wild Wild West,Barry Sonnenfeld,,,106,Action,Comedy,Sci-Fi,4.9
+1661,"1,662",The Darkest Hour,Chris Gorak,,,89,Action,Adventure,Horror,4.9
+1662,"1,663",Dracula 2000,Patrick Lussier,,,99,Action,Fantasy,Horror,4.9
+1663,"1,664",Charlie's Angels: Full Throttle,McG,,,106,Action,Adventure,Comedy,4.9
+1664,"1,665",The Cold Light of Day,Mabrouk El Mechri,,,93,Action,Thriller,,4.9
+1665,"1,666",Ghosts of Mars,John Carpenter,,,98,Action,Horror,Sci-Fi,4.9
+1666,"1,667",Blues Brothers 2000,John Landis,,,123,Action,Comedy,Crime,4.9
+1667,"1,668",Happy New Year,Farah Khan,,,180,Action,Comedy,Crime,4.9
+1668,"1,669",Anaconda,Luis Llosa,,,89,Action,Adventure,Horror,4.8
+1669,"1,670",The Ridiculous 6,Frank Coraci,,,119,Action,Adventure,Comedy,4.8
+1670,"1,671",DOA: Dead or Alive,Corey Yuen,,,87,Action,Adventure,Mystery,4.8
+1671,"1,672",After Earth,M. Night Shyamalan,,,100,Action,Adventure,Sci-Fi,4.8
+1672,"1,673",Teenage Mutant Ninja Turtles III,Stuart Gillard,,,96,Action,Adventure,Comedy,4.8
+1673,"1,674",Crocodile Dundee in Los Angeles,Simon Wincer,,,95,Action,Adventure,Comedy,4.8
+1674,"1,675",Tekken,Dwight H. Little,,,92,Action,Crime,Drama,4.8
+1675,"1,676",Double Team,Hark Tsui,,,93,Action,Comedy,Sci-Fi,4.8
+1676,"1,677",Shamshera,Karan Malhotra,,,178,Action,Adventure,Drama,4.8
+1677,"1,678",Godsend,Frank M. Calo,Nick Hamm,,102,Action,Drama,Fantasy,4.8
+1678,"1,679",Howard the Duck,Willard Huyck,,,110,Action,Adventure,Comedy,4.7
+1679,"1,680",Zoolander 2,Ben Stiller,,,101,Action,Adventure,Comedy,4.7
+1680,"1,681",Elektra,Rob Bowman,,,97,Action,Adventure,Crime,4.7
+1681,"1,682",Anacondas: The Hunt for the Blood Orchid,Dwight H. Little,,,97,Action,Adventure,Horror,4.7
+1682,"1,683",The Spirit,Frank Miller,,,103,Action,Crime,Fantasy,4.7
+1683,"1,684",The Marine,John Bonito,,,92,Action,Comedy,Drama,4.7
+1684,"1,685",Jonah Hex,Jimmy Hayward,,,81,Action,Drama,Fantasy,4.7
+1685,"1,686",Snatched,Jonathan Levine,,,90,Action,Adventure,Comedy,4.7
+1686,"1,687",Ra.One,Anubhav Sinha,,,156,Action,Adventure,Sci-Fi,4.7
+1687,"1,688",Bodyguard,Siddique,,,130,Action,Comedy,Drama,4.7
+1688,"1,689",Bharat,Ali Abbas Zafar,,,150,Action,Comedy,Drama,4.7
+1689,"1,690",Superhero Movie,Craig Mazin,,,75,Action,Comedy,Sci-Fi,4.6
+1690,"1,691",Interceptor,Matthew Reilly,,,99,Action,Adventure,Drama,4.6
+1691,"1,692",Aliens vs. Predator: Requiem,Colin Strause,Greg Strause,,94,Action,Adventure,Horror,4.6
+1692,"1,693",Shehzada,Rohit Dhawan,,,142,Action,Comedy,Drama,4.6
+1693,"1,694",Driven,Renny Harlin,,,116,Action,Drama,Sport,4.6
+1694,"1,695",Thunder Force,Ben Falcone,,,106,Action,Adventure,Comedy,4.5
+1695,"1,696",Species II,Peter Medak,,,93,Action,Horror,Sci-Fi,4.5
+1696,"1,697",Home Alone 3,Raja Gosnell,,,102,Action,Comedy,Crime,4.5
+1697,"1,698",Taxi,Tim Story,,,97,Action,Comedy,Crime,4.5
+1698,"1,699",Skyline,Colin Strause,Greg Strause,,92,Action,Sci-Fi,Thriller,4.5
+1699,"1,700",xXx: State of the Union,Lee Tamahori,,,101,Action,Adventure,Crime,4.5
+1700,"1,701",The Next Karate Kid,Christopher Cain,,,107,Action,Drama,Family,4.5
+1701,"1,702",Kangaroo Jack,David McNally,,,89,Action,Adventure,Comedy,4.5
+1702,"1,703",Jason X,James Isaac,,,92,Action,Horror,Sci-Fi,4.4
+1703,"1,704",Cell,Tod Williams,,,98,Action,Adventure,Horror,4.4
+1704,"1,705",Paul Blart: Mall Cop 2,Andy Fickman,,,94,Action,Comedy,Crime,4.4
+1705,"1,706","Big Mommas: Like Father, Like Son",John Whitesell,,,107,Action,Comedy,Crime,4.4
+1706,"1,707",Fantastic Four,Josh Trank,,,100,Action,Adventure,Sci-Fi,4.3
+1707,"1,708",Spy Kids 3: Game Over,Robert Rodriguez,,,84,Action,Adventure,Comedy,4.3
+1708,"1,709",Ghost Rider: Spirit of Vengeance,Mark Neveldine,Brian Taylor,,96,Action,Adventure,Fantasy,4.3
+1709,"1,710",Stop! Or My Mom Will Shoot,Roger Spottiswoode,,,87,Action,Comedy,,4.3
+1710,"1,711",Ultraviolet,Kurt Wimmer,,,88,Action,Sci-Fi,,4.3
+1711,"1,712",Inspector Gadget,David Kellogg,,,78,Action,Adventure,Comedy,4.2
+1712,"1,713",Highlander II: The Quickening,Russell Mulcahy,,,91,Action,Adventure,Fantasy,4.2
+1713,"1,714",The Legend of Hercules,Renny Harlin,,,99,Action,Adventure,Fantasy,4.2
+1714,"1,715",Universal Soldier: The Return,Mic Rodgers,,,83,Action,Sci-Fi,,4.2
+1715,"1,716",Coolie No. 1,David Dhawan,,,134,Action,Comedy,Romance,4.2
+1716,"1,717",RoboCop 3,Fred Dekker,,,104,Action,Crime,Sci-Fi,4.1
+1717,"1,718",Torque,Joseph Kahn,,,84,Action,Comedy,Crime,4.1
+1718,"1,719",Street Fighter,Steven E. de Souza,,,102,Action,Adventure,Comedy,4.0
+1719,"1,720",The Last Airbender,M. Night Shyamalan,,,103,Action,Adventure,Family,4.0
+1720,"1,721",Shark Night,David R. Ellis,,,90,Action,Adventure,Horror,4.0
+1721,"1,722",Speed 2: Cruise Control,Jan de Bont,,,121,Action,Adventure,Crime,3.9
+1722,"1,723",Escape Plan 2: Hades,Steven C. Miller,,,96,Action,Crime,Mystery,3.9
+1723,"1,724",In the Name of the King: A Dungeon Siege Tale,Uwe Boll,,,127,Action,Adventure,Fantasy,3.8
+1724,"1,725",The Avengers,Jeremiah S. Chechik,,,89,Action,Adventure,Sci-Fi,3.8
+1725,"1,726",The Adventures of Pluto Nash,Ron Underwood,,,95,Action,Comedy,Sci-Fi,3.8
+1726,"1,727",Batman & Robin,Joel Schumacher,,,125,Action,Sci-Fi,,3.7
+1727,"1,728",The Adventures of Sharkboy and Lavagirl 3-D,Robert Rodriguez,,,93,Action,Adventure,Comedy,3.7
+1728,"1,729",Superman IV: The Quest for Peace,Sidney J. Furie,,,90,Action,Adventure,Sci-Fi,3.7
+1729,"1,730",Dungeons & Dragons,Courtney Solomon,,,107,Action,Adventure,Fantasy,3.6
+1730,"1,731",Mortal Kombat: Annihilation,John R. Leonetti,,,95,Action,Adventure,Fantasy,3.6
+1731,"1,732",Crimea,Aleksey Pimanov,,,99,Action,Drama,,3.6
+1732,"1,733",Barb Wire,David Hogan,,,98,Action,Sci-Fi,,3.5
+1733,"1,734",Spy Kids 4: All the Time in the World,Robert Rodriguez,,,89,Action,Adventure,Comedy,3.5
+1734,"1,735",Dragon Wars: D-War,Hyung-rae Shim,,,107,Action,Drama,Fantasy,3.5
+1735,"1,736",Catwoman,Pitof,,,104,Action,Crime,Fantasy,3.4
+1736,"1,737",Left Behind,Vic Armstrong,,,110,Action,Fantasy,Sci-Fi,3.1
+1737,"1,738",Rollerball,John McTiernan,,,98,Action,Sci-Fi,Sport,3.1
+1738,"1,739",BloodRayne,Uwe Boll,,,95,Action,Fantasy,Horror,3.0
+1739,"1,740",Gunday,Ali Abbas Zafar,,,152,Action,Drama,Musical,2.7
+1740,"1,741",Liger,Puri Jagannadh,,,140,Action,Drama,Romance,2.7
+1741,"1,742",Dragonball Evolution,James Wong,,,85,Action,Adventure,Fantasy,2.6
+1742,"1,743",Battlefield Earth,Roger Christian,,,118,Action,Adventure,Sci-Fi,2.5
+1743,"1,744",Heropanti 2,Ahmed Khan,,,145,Action,Comedy,Crime,2.5
+1744,"1,745",Laxmii,Raghava Lawrence,Balakrishnan Thevar,,141,Action,Comedy,Horror,2.5
+1745,"1,746",Alone in the Dark,Uwe Boll,,,96,Action,Horror,Sci-Fi,2.4
+1746,"1,747",The Prototype,Marcelo Grion,,,97,Action,Sci-Fi,Thriller,2.4
+1747,"1,748",House of the Dead,Uwe Boll,,,90,Action,Adventure,Horror,2.1
+1748,"1,749",Radhe,Prabhu Deva,,,109,Action,Crime,Thriller,1.9
+1749,"1,750",Race 3,Remo D'Souza,,,160,Action,Crime,Thriller,1.9
+1750,"1,751",Angels Apocalypse,Sean Cain,Enzo Zelocchi,,85,Action,Fantasy,Sci-Fi,1.7
+1751,"1,752",The Cost of Deception,Keith English,,,125,Action,Crime,Drama,1.5
+1752,"1,753",Sadak 2,Mahesh Bhatt,,,133,Action,Drama,,1.2
